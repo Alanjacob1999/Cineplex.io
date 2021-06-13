@@ -1,0 +1,879 @@
+/* Media Player for tv shows */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color:#212121;
+	color: white;
+}
+
+.heading{
+	display:block;
+	text-align: center;
+font-family: 'Bebas Neue', cursive;
+	color: white;
+	font-weight: bold;
+	font-size:3rem;
+	margin-top: -17rem;
+   
+}
+
+.heading_span{
+	background-color:#edba38;
+	padding-right: 0.5rem;
+	padding-left:  0.5rem;
+	padding-top:  0.5rem;
+	padding-bottom:  0.5rem;
+	border:none;
+	border-radius: 5px;
+	color:#212121;
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .heading_span {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(237, 186, 56, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+}
+
+
+.Top_navbar{
+	display: block;
+text-align: center;
+margin-top: 4rem;
+background-color: #212121;
+margin-left: -0.5rem;
+margin-right: -0.5rem;
+}
+
+.Top_navbar a{
+
+color: black;
+text-decoration: none;
+padding-right: 0.5rem;
+font-weight: bold;
+
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .Top_navbar {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+}
+
+/****************************************************/
+
+.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 9rem;
+}
+
+.TV_Shows_Content{
+margin-top: 5rem;
+margin-left:5rem;
+}
+.TV_Shows_1{
+background-image: url("https://fanart.tv/fanart/tv/355567/tvposter/the-boys-5ef831ade9b4b.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.TV_Shows_1 a{
+	display: none;
+}
+
+.TV_Shows_1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.TV_Shows_1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_2{
+	background-image: url("https://www.denofgeek.com/wp-content/uploads/2020/08/haunting-of-bly-manor-poster-netflix.jpg?fit=1200%2C1500");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-left: 10rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.TV_Shows_2 a{
+	display: none;
+}
+.TV_Shows_2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.TV_Shows_2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_3{
+	background-image: url("https://static.rogerebert.com/uploads/movie/movie_poster/the-night-of-2016/large_Night_Of.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left:20rem;
+border-radius: 5px;
+}
+.TV_Shows_3 a{
+	display: none;
+}
+.TV_Shows_3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.TV_Shows_3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_4{
+background-image: url("https://tekilaz.co/wp-content/uploads/2021/04/mare-of-easttown-115221-poster-193x288.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 30rem;
+border-radius: 5px;
+}
+.TV_Shows_4 a{
+	display: none;
+}
+.TV_Shows_4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.TV_Shows_4:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_5{
+	background-image: url("https://tv-fanatic-res.cloudinary.com/iu/s--Y16Qryd4--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1599671764/a-teacher-poster.png");	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 40rem;
+border-radius: 5px;
+}
+.TV_Shows_5 a{
+	display: none;
+}
+.TV_Shows_5:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.TV_Shows_5:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_6{
+background-image: url("https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_2370,w_1600/https:%2F%2Fshowsnob.com%2Ffiles%2Fimage-exchange%2F2018%2F08%2Fie_56449.jpeg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 50rem;
+border-radius: 5px;
+}
+.TV_Shows_6 a{
+	display: none;
+}
+.TV_Shows_6:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.TV_Shows_6:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_7{
+		background-image: url("https://de.web.img3.acsta.net/pictures/21/02/08/13/16/3072141.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 60rem;
+border-radius: 5px;
+}
+.TV_Shows_7 a{
+	display: none;
+}
+.TV_Shows_7:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.TV_Shows_7:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_8{
+background-image: url("https://pad.mymovies.it/cinemanews/2018/157085/locandina-poster.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 70rem;
+border-radius: 5px;
+}
+.TV_Shows_8 a{
+	display: none;
+}
+.TV_Shows_8:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.TV_Shows_8:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_9{
+background-image: url("https://fanart.tv/fanart/tv/267440/tvposter/attack-on-titan-54756d2083308.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: 2rem;
+margin-left: 0rem;
+border-radius: 5px;
+}
+.TV_Shows_9 a{
+	display: none;
+}
+.TV_Shows_9:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.TV_Shows_9:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_10{
+background-image: url("https://images.ctfassets.net/4cd45et68cgf/73iiraPf86qT2NGI5fA2jO/9afc6fc7976effcfbaa9c9d4d51f6b72/Shadow_and_Bone-Box_Art-62ae7ab0-9703-11eb-9638-12c8084e48ef.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 10rem;
+border-radius: 5px;
+}
+.TV_Shows_10 a{
+	display: none;
+}
+.TV_Shows_10:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.TV_Shows_10:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_11{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2Fc1fcfb86338871.5d96232b61874.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 20rem;
+border-radius: 5px;
+}
+.TV_Shows_11 a{
+	display: none;
+}
+.TV_Shows_11:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.TV_Shows_11:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_12{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvAxWpk857xbpaeoSvkRsfMbokPl.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 30rem;
+border-radius: 5px;
+}
+.TV_Shows_12 a{
+	display: none;
+}
+.TV_Shows_12:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.TV_Shows_12:hover{
+	filter: grayscale(100%);
+	
+}
+
+.TV_Shows_13{
+background-image: url("https://i1.wp.com/www.comicsbeat.com/wp-content/uploads/2018/06/Stranger-Things-1b.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 40rem;
+border-radius: 5px;
+}
+.TV_Shows_13 a{
+	display: none;
+}
+.TV_Shows_13:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.TV_Shows_13:hover{
+	filter: grayscale(100%);
+	
+}
+
+/** Footer ***/
+
+footer{
+background-color: black;
+display: block;
+padding:0;
+margin:0;
+margin-left: -0.5rem;
+margin-right: -0.5rem;
+margin-bottom: -0.5rem;
+}
+footer span{
+	
+	background-color: rgba(255, 255, 255, 0.7);
+	padding-right: 0.5rem;
+	padding-left:  0.5rem;
+	padding-top:  0.5rem;
+	padding-bottom:  0.5rem;
+	border:none;
+	border-radius: 5px;
+	color:#212121;
+	font-family: 'Bebas Neue', cursive;
+
+
+}
+footer h2{
+	margin-left:0.5rem;
+	font-size:2.5rem;
+	font-family: 'Bebas Neue', cursive;
+	position: relative;
+	top:1rem;
+}
+footer .pages a{
+text-decoration: none;
+color: white;
+padding-right: 1rem;
+
+}
+footer .pages{
+	display: block;
+	text-align: right;
+	}
+footer .alert{
+color:white;
+display: block;
+text-align: center;
+padding:1rem;
+}	
+
+
+
+
+/********* Media Query *********/
+@media only screen and (max-width: 360px){
+	.heading{
+color: white;
+margin-top:-25rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding:0.2rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.2rem;
+	}
+
+.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 13rem;
+}
+	.TV_Shows_Content{
+		margin-left: 1.5rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.TV_Shows_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.TV_Shows_3,.TV_Shows_5,.TV_Shows_7,.TV_Shows_9,.TV_Shows_11,.TV_Shows_13{
+margin-left: 1rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.TV_Shows_4,.TV_Shows_6,.TV_Shows_8,.TV_Shows_10,.TV_Shows_12{
+
+margin-left: 10rem;
+margin-top:-11rem;
+}
+
+
+}
+
+
+
+@media only screen and (min-width: 420px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 3rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding:0.2rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.2rem;
+	}
+
+	/*********/
+
+	.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 13rem;
+}
+	.TV_Shows_Content{
+		margin-left: 3rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.TV_Shows_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.TV_Shows_3,.TV_Shows_5,.TV_Shows_7,.TV_Shows_9,.TV_Shows_11,.TV_Shows_13{
+margin-left: 1rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.TV_Shows_4,.TV_Shows_6,.TV_Shows_8,.TV_Shows_10,.TV_Shows_12{
+
+margin-left: 10rem;
+margin-top:-11rem;
+}
+
+
+}
+
+@media only screen and (min-width: 600px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 4rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 5rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+
+	.Top_navbar{
+		padding:1rem;
+	}
+	.Top_navbar a{
+		padding-right: 1rem;
+	}
+	/**********************/
+
+		.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.TV_Shows_Content{
+		margin-left: 4.5rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.TV_Shows_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+
+	.TV_Shows_3{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+/*** All three shows **/
+.TV_Shows_4,.TV_Shows_7,.TV_Shows_10,.TV_Shows_13{
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+
+.TV_Shows_5,.TV_Shows_8,.TV_Shows_11{
+	margin-left: 10rem;
+	margin-top:-11rem;
+}
+
+.TV_Shows_6,.TV_Shows_9,.TV_Shows_12{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+
+
+	
+}
+
+@media only screen and (min-width: 720px){
+.Top_navbar a{
+		padding-right: 2rem;
+		padding-left: 2rem;
+	}
+
+		.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.TV_Shows_Content{
+		margin-left: 4rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.TV_Shows_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+
+	.TV_Shows_3{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+	.TV_Shows_4{
+		margin-left: 28rem;
+		margin-top: -11rem;
+	}
+/*** All three shows **/
+.TV_Shows_5,.TV_Shows_9,.TV_Shows_13{
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+
+.TV_Shows_6,.TV_Shows_10{
+	margin-left: 10rem;
+	margin-top:-11rem;
+}
+
+.TV_Shows_7,.TV_Shows_11{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+	.TV_Shows_8,.TV_Shows_12{
+		margin-left: 28rem;
+		margin-top: -11rem;
+	}
+}
+
+
+
+@media only screen and (min-width: 1200px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 5rem;
+
+	}
+
+.Top_navbar a{
+ font-size: 1.3rem;
+}
+
+	.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.TV_Shows_Content{
+		margin-left: 4rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1,.TV_Shows_7,.TV_Shows_13{
+		margin-top: 1rem;
+		margin-left: 1rem;
+	}
+
+	.TV_Shows_2,.TV_Shows_8{
+		margin-left: 12rem;
+		margin-top:-14rem;
+	}
+
+	.TV_Shows_3,.TV_Shows_9{
+		margin-left: 23rem;
+		margin-top: -14rem;
+	}
+
+	.TV_Shows_4,.TV_Shows_10{
+		margin-left: 34rem;
+		margin-top: -14rem;
+	}
+
+	.TV_Shows_5,.TV_Shows_11{
+		margin-left: 45rem;
+		margin-top: -14rem;
+	}
+	.TV_Shows_6,.TV_Shows_12{
+		margin-left: 56rem;
+		margin-top: -14rem;
+	}
+
+
+}
+
+
+@media only screen and (min-width: 1462px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 5rem;
+
+	}
+
+.Top_navbar a{
+ font-size: 1.3rem;
+}
+
+	.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.TV_Shows_Content{
+		margin-left: 5rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1,.TV_Shows_8{
+		margin-top: 1rem;
+		margin-left: 1rem;
+	}
+
+	.TV_Shows_2,.TV_Shows_9{
+		margin-left: 12rem;
+		margin-top:-14rem;
+	}
+
+	.TV_Shows_3,.TV_Shows_10{
+		margin-left: 23rem;
+		margin-top: -14rem;
+	}
+
+	.TV_Shows_4,.TV_Shows_11{
+		margin-left: 34rem;
+		margin-top: -14rem;
+	}
+
+	.TV_Shows_5,.TV_Shows_12{
+		margin-left: 45rem;
+		margin-top: -14rem;
+	}
+	.TV_Shows_6,.TV_Shows_13{
+		margin-left: 56rem;
+		margin-top: -14rem;
+	}
+
+	.TV_Shows_7{
+		margin-left: 67rem;
+		margin-top: -14rem;
+	}
+
+
+}
+
+/**More Media Queries to be added **/

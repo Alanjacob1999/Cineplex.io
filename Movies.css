@@ -1,0 +1,1644 @@
+/* Media Player for tv shows */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color:#212121;
+	color: white;
+}
+
+.heading{
+	display:block;
+	text-align: center;
+font-family: 'Bebas Neue', cursive;
+	color: white;
+	font-weight: bold;
+	font-size:3rem;
+	margin-top: -17rem;
+   
+}
+
+.heading_span{
+	background-color:#edba38;
+	padding-right: 0.5rem;
+	padding-left:  0.5rem;
+	padding-top:  0.5rem;
+	padding-bottom:  0.5rem;
+	border:none;
+	border-radius: 5px;
+	color:#212121;
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .heading_span {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(237, 186, 56, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+}
+
+
+.Top_navbar{
+	display: block;
+text-align: center;
+margin-top: 4rem;
+background-color: #212121;
+margin-left: -0.5rem;
+margin-right: -0.5rem;
+}
+
+.Top_navbar a{
+
+color: black;
+text-decoration: none;
+padding-right: 0.5rem;
+font-weight: bold;
+
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .Top_navbar {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+}
+/*********************** Movie Content*****************************/
+.All_Movies h1{
+		display: block;
+	text-align: center;
+	margin-top: 9rem;
+}
+
+
+.All_Movies{
+margin-top: 5rem;
+margin-left:5rem;
+}
+
+.Movies_1{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.reelgood.com%2Fcontent%2Fmovie%2Ff3efc316-c9d5-4db4-befc-070891e766e1%2Fposter-780.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.Movies_1 a{
+	display: none;
+}
+
+.Movies_1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.Movies_1:hover{
+	filter: grayscale(100%);
+	
+}
+
+
+.Movies_2{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmovies.mxdwn.com%2Fwp-content%2Fuploads%2F2014%2F10%2Fultron-full-avengers-age-of-ultron-poster-revealed-with-full-superhero-roster.jpeg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-left: 10rem;
+margin-top: -14rem;
+border-radius: 5px;
+
+}
+.Movies_2 a{
+	display: none;
+}
+.Movies_2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.Movies_2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_3{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.followingthenerd.com%2Fsite%2Fwp-content%2Fuploads%2Favengers-infinity-war-1.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left:20rem;
+border-radius: 5px;
+
+}
+.Movies_3 a{
+	display: none;
+}
+.Movies_3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.Movies_3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_4{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fgj0fKa4jjwxZLmVq7I8tv13V45.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 30rem;
+border-radius: 5px;
+
+}
+.Movies_4 a{
+	display: none;
+}
+.Movies_4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.Movies_4:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_5{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.blackfilm.com%2Fread%2Fwp-content%2Fuploads%2F2014%2F05%2FGuardians-of-the-Galaxy-poster-2.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 40rem;
+border-radius: 5px;
+
+}
+.Movies_5 a{
+	display: none;
+}
+.Movies_5:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.Movies_5:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_6{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F30BBuwaRgzqr7X6HKWM7P8ye7fG.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 50rem;
+border-radius: 5px;
+
+}
+.Movies_6 a{
+	display: none;
+}
+.Movies_6:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.Movies_6:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_7{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F68721%2Fmovieposter%2Firon-man-3-523263848d2b4.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 60rem;
+border-radius: 5px;
+
+}
+.Movies_7 a{
+	display: none;
+}
+.Movies_7:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_7:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_8{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newdvdreleasedates.com%2Fimages%2Fposters%2Flarge%2Fcaptain-america-the-winter-soldier-2014-06.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 70rem;
+border-radius: 5px;
+
+}
+.Movies_8 a{
+	display: none;
+}
+.Movies_8:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_8:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_9{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.laughingplace.com%2Fw%2Fwp-content%2Fuploads%2F2018%2F05%2FBlack-Panther-Digital.png&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: 2rem;
+margin-left: 0rem;
+border-radius: 5px;
+
+}
+.Movies_9 a{
+	display: none;
+}
+.Movies_9:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_9:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_10{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.moviehdwallpapers.com%2Fwp-content%2Fuploads%2F2014%2F01%2FAbout-Time-Poster.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 10rem;
+border-radius: 5px;
+
+}
+.Movies_10 a{
+	display: none;
+}
+.Movies_10:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_10:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_11{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.aceshowbiz.com%2Fimages%2Fstill%2Fthe-vow-poster03.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 20rem;
+border-radius: 5px;
+
+}
+.Movies_11 a{
+	display: none;
+}
+.Movies_11:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_11:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_12{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.collider.com%2Fwp-content%2Fuploads%2Fback_to_the_future_poster_01.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 30rem;
+border-radius: 5px;
+
+}
+.Movies_12 a{
+	display: none;
+}
+.Movies_12:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_12:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_13{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fa3.mzstatic.com%2Fus%2Fr30%2FVideo%2Fv4%2F8b%2Ffe%2F98%2F8bfe9801-2c3a-fdc2-a4c3-cc637a442104%2FHANCOCK_2008_TH_MLF-WW-artwork.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 40rem;
+border-radius: 5px;
+
+}
+.Movies_13 a{
+	display: none;
+}
+.Movies_13:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_13:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_14{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.netflixreleases.com%2Fimages%2F33529275617afadfbd6d6808f13e225c%2Fthe-perfect-date-2019-poster.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 50rem;
+border-radius: 5px;
+
+}
+.Movies_14 a{
+	display: none;
+}
+.Movies_14:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_14:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_15{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F28HcbSyLA3SlgmXSEnt5gOPaiKH.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 60rem;
+border-radius: 5px;
+
+}
+.Movies_15 a{
+	display: none;
+}
+.Movies_15:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_15:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_16{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.whats-on-netflix.com%2Fwp-content%2Fuploads%2Fcovers%2Facaliforniachristmas.jpeg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 70rem;
+border-radius: 5px;
+
+}
+.Movies_16 a{
+	display: none;
+}
+.Movies_16:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_16:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_17{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fa-haunted-house-movie-poster-2013-1020753837.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: 2rem;
+margin-left: 0rem;
+border-radius: 5px;
+
+}
+.Movies_17 a{
+	display: none;
+}
+.Movies_17:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_17:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_18{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.starmometer.com%2Fwp-content%2Fuploads%2F2018%2F05%2FSetitUp_Vertical-Main_PRE_US.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 10rem;
+border-radius: 5px;
+
+}
+.Movies_18 a{
+	display: none;
+}
+.Movies_18:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_18:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_19{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fcinemorgue%2Fimages%2Fe%2Fe2%2F28-days-later.jpg%2Frevision%2Flatest%3Fcb%3D20160916184718&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 20rem;
+border-radius: 5px;
+
+}
+.Movies_19 a{
+	display: none;
+}
+.Movies_19:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_19:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_20{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FdaKUBfbaAfl6e18HE0hD636jybi.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 30rem;
+border-radius: 5px;
+
+}
+.Movies_20 a{
+	display: none;
+}
+.Movies_20:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_20:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_21{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.squarespace.com%2Fstatic%2F51b3dc8ee4b051b96ceb10de%2F51ce6099e4b0d911b4489b79%2F51ce61ffe4b0d911b44a8b8d%2F1352761882163%2F1000w%2Fwarmbodies38385.jpeg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 40rem;
+border-radius: 5px;
+
+}
+.Movies_21 a{
+	display: none;
+}
+.Movies_21:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_21:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_22{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fassets2.ignimgs.com%2F2013%2F08%2F29%2Fendersgamejpg-882de8.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 50rem;
+border-radius: 5px;
+
+}
+.Movies_22 a{
+	display: none;
+}
+.Movies_22:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_22:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_23{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhollamhouse.files.wordpress.com%2F2020%2F01%2Fonce-upon-a-time-in...-hollywood-2019-movie-poster-9.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 60rem;
+border-radius: 5px;
+
+}
+.Movies_23 a{
+	display: none;
+}
+.Movies_23:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_23:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_24{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMWYwMWQxMmUtNjU3MS00NjIwLTllYWMtNzcxYzRkMWYyYTkwXkEyXkFqcGdeQXVyMDM2NDM2MQ%40%40._V1_.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 70rem;
+border-radius: 5px;
+
+}
+.Movies_24 a{
+	display: none;
+}
+.Movies_24:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_24:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_25{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis3-ssl.mzstatic.com%2Fimage%2Fthumb%2FVideo2%2Fv4%2F83%2F52%2F1d%2F83521d5d-d4d1-1033-a7be-db4f5862ae22%2Fsource%2F900x900bb.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 80rem;
+border-radius: 5px;
+
+}
+.Movies_25 a{
+	display: none;
+}
+.Movies_25:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_25:hover{
+	filter: grayscale(100%);
+	
+}
+
+
+.Movies_26{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcollectors-junkies.com%2Fwp-content%2Fuploads%2F2019%2F09%2FGodzilla-2-King-of-the-Monsters-2019.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 90rem;
+border-radius: 5px;
+
+}
+.Movies_26 a{
+	display: none;
+}
+.Movies_26:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_26:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_27{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.nSjR4rtnw_BEauxLw73JzgHaK-%26pid%3DApi&f=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_27 a{
+	display: none;
+}
+.Movies_27:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_27:hover{
+	filter: grayscale(100%);
+	
+}
+
+/************************ Added on 12-06-2021 *****************************************/
+.Movies_28{
+background-image:url("https://3.bp.blogspot.com/_5r-8lYWuFQQ/TPlRWCAyY0I/AAAAAAAAAS0/iSTQPUk0Z-M/s1600/img1er.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 90rem;
+border-radius: 5px;
+
+}
+.Movies_28 a{
+	display: none;
+}
+.Movies_28:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_28:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_29{
+background-image:url("https://filmeserialegratis.org/wp-content/uploads/2019/09/five-feet-apart-3718-poster.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_29 a{
+	display: none;
+}
+.Movies_29:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_29:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_30{
+background-image:url("https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/440191/440191_434421.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_30 a{
+	display: none;
+}
+.Movies_30:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_30:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_31{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F11324%2Fmovieposter%2Fshutter-island-54157e16cf1d2.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_31 a{
+	display: none;
+}
+.Movies_31:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_31:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_32{
+background-image:url("https://m.media-amazon.com/images/M/MV5BMjEwMDE1NzI3M15BMl5BanBnXkFtZTgwNjg2NjExNjM@._V1_.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_32 a{
+	display: none;
+}
+.Movies_32:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_32:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_33{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dvdsreleasedates.com%2Fposters%2F800%2FT%2FThe-Fast-and-the-Furious-movie-poster.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_33 a{
+	display: none;
+}
+.Movies_33:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_33:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_34{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dvdplanetstore.pk%2Fwp-content%2Fuploads%2F2014%2F02%2F2-Fast-2-Furious.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_34 a{
+	display: none;
+}
+.Movies_34:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_34:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_35{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F_XRN97bhAado%2FTTGDzBQiZDI%2FAAAAAAAAAYc%2FAU94Re1IQvQ%2Fs1600%2Fthe-fsdfwe-furious-tokyo-drift-original.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_35 a{
+	display: none;
+}
+.Movies_35:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_35:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_36{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Ffast-and-furious-4-movie-poster-2009-1020695815.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_36 a{
+	display: none;
+}
+.Movies_36:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_36:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_37{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.thaidvd.biz%2Fimages%2Ffast5.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_37 a{
+	display: none;
+}
+.Movies_37:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_37:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_38{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.moviepulp.be%2Fwp-content%2Fuploads%2F2013%2F05%2FFast-and-Furious-6-poster.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_38 a{
+	display: none;
+}
+.Movies_38:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_38:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_39{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffbwebsitedefaultstorage.blob.core.windows.net%2Fprod-film%2F15221%2Fuk%2Ffast-and-furious-7-1-poster.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_39 a{
+	display: none;
+}
+.Movies_39:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_39:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_40{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqwedY3Aa6TdQ4fFb2Q356EBV5YR.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_40 a{
+	display: none;
+}
+.Movies_40:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_40:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_41{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.IpZEIH-bD_sd7mPcLDP_YQHaKX%26pid%3DApi&f=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_41 a{
+	display: none;
+}
+.Movies_41:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_41:hover{
+	filter: grayscale(100%);
+	
+}
+/****************************** Footer **********************/
+
+/** Footer ***/
+
+footer{
+background-color: black;
+display: block;
+padding:0;
+margin:0;
+margin-left: -0.5rem;
+margin-right: -0.5rem;
+margin-bottom: -0.5rem;
+}
+footer span{
+	
+	background-color: rgba(255, 255, 255, 0.7);
+	padding-right: 0.5rem;
+	padding-left:  0.5rem;
+	padding-top:  0.5rem;
+	padding-bottom:  0.5rem;
+	border:none;
+	border-radius: 5px;
+	color:#212121;
+	font-family: 'Bebas Neue', cursive;
+
+
+}
+footer h2{
+	margin-left:0.5rem;
+	font-size:2.5rem;
+	font-family: 'Bebas Neue', cursive;
+	position: relative;
+	top:1rem;
+}
+footer .pages a{
+text-decoration: none;
+color: white;
+padding-right: 1rem;
+
+}
+footer .pages{
+	display: block;
+	text-align: right;
+	}
+footer .alert{
+color:white;
+display: block;
+text-align: center;
+padding:1rem;
+}	
+
+/*******************************************************************************
+***************/
+
+/********* Media Query *********/
+@media only screen and (max-width: 360px){
+.heading{
+color: white;
+margin-top:-25rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding:0.2rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.2rem;
+	}
+
+.All_Movies h1{
+	display: block;
+	text-align: center;
+	margin-top: 13rem;
+}
+.All_Movies{
+		margin-left: 1.5rem;
+	}
+
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+	}
+
+	/*** First two movies **/
+	.Movies_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.Movies_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+		.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41{
+margin-left: 1rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40{
+
+margin-left: 10rem;
+margin-top:-11rem;
+}
+
+}
+
+
+@media only screen and (min-width: 420px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 3rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding:0.2rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.2rem;
+	}
+/***************/
+
+	.All_Movies h1{
+	display: block;
+	text-align: center;
+	margin-top: 13rem;
+	margin-left: -3rem;
+
+}
+	.All_Movies{
+		margin-left: 3rem;
+		margin-top: 13rem;
+	}
+
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+	}
+
+	/*** First two shows **/
+	.Movies_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.Movies_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41{
+margin-left: 1rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40{
+
+margin-left: 10rem;
+margin-top:-11rem;
+}
+
+
+}
+
+
+
+@media only screen and (min-width: 600px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 4rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 5rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+
+	.Top_navbar{
+		padding:1rem;
+	}
+	.Top_navbar a{
+		padding-right: 1rem;
+	}
+
+	/**********************/
+
+		.All_Movies h1{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.All_Movies{
+		margin-left: 4.5rem;
+	}
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+	}
+
+
+	/*** First two shows **/
+	.Movies_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.Movies_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+
+	.Movies_3{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+/*** All three shows **/
+.Movies_4,.Movies_7,.Movies_10,.Movies_13,.Movies_16,.Movies_19,.Movies_22,.Movies_25,.Movies_27,.Movies_30,.Movies_33,.Movies_36,.Movies_39{
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+
+.Movies_5,.Movies_8,.Movies_11,.Movies_14,.Movies_17,.Movies_20,.Movies_23,.Movies_26,.Movies_28,.Movies_31,.Movies_34,.Movies_37,.Movies_40{
+	margin-left: 10rem;
+	margin-top:-11rem;
+}
+
+.Movies_6,.Movies_9,.Movies_12,.Movies_15,.Movies_18,.Movies_21,.Movies_24,.Movies_27,.Movies_29,.Movies_32,.Movies_35,.Movies_38,.Movies_41{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+
+
+}
+
+@media only screen and (min-width: 720px){
+.Top_navbar a{
+		padding-right: 2rem;
+		padding-left: 2rem;
+	}
+
+	.All_Movies h1{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.All_Movies{
+		margin-left: 4rem;
+	}
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.Movies_1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.Movies_2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+
+	.Movies_3{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+	.Movies_4{
+		margin-left: 28rem;
+		margin-top: -11rem;
+	}
+/*** All three shows **/
+.Movies_5,.Movies_9,.Movies_13,.Movies_17,.Movies_21,.Movies_25,.Movies_29,.Movies_33,.Movies_37,.Movies_41{
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+
+.Movies_6,.Movies_10,.Movies_14,.Movies_18,.Movies_22,.Movies_26,.Movies_30,.Movies_34,.Movies_38{
+	margin-left: 10rem;
+	margin-top:-11rem;
+}
+
+.Movies_7,.Movies_11,.Movies_15,.Movies_19,.Movies_23,.Movies_27,.Movies_31,.Movies_35,.Movies_39{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+.Movies_8,.Movies_12,.Movies_16,.Movies_20,.Movies_24,.Movies_28,.Movies_32,.Movies_36,.Movies_40{
+		margin-left: 28rem;
+		margin-top: -11rem;
+	}
+
+}
+
+
+@media only screen and (min-width: 1200px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 5rem;
+
+	}
+
+.Top_navbar a{
+ font-size: 1.3rem;
+}
+
+.All_Movies h1{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.All_Movies{
+		margin-left: 4rem;
+	}
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+	}
+
+	/*** First two shows **/
+	.Movies_1,.Movies_7,.Movies_13,.Movies_19,.Movies_25,.Movies_31,.Movies_37{
+		margin-top: 1rem;
+		margin-left: 1rem;
+	}
+
+	.Movies_2,.Movies_8,.Movies_14,.Movies_20,.Movies_26,.Movies_32,.Movies_38{
+		margin-left: 12rem;
+		margin-top:-14rem;
+	}
+
+	.Movies_3,.Movies_9,.Movies_15,.Movies_21,.Movies_27,.Movies_33,.Movies_39{
+		margin-left: 23rem;
+		margin-top: -14rem;
+	}
+
+	.Movies_4,.Movies_10,.Movies_16,.Movies_22,.Movies_28,.Movies_34,.Movies_40{
+		margin-left: 34rem;
+		margin-top: -14rem;
+	}
+
+	.Movies_5,.Movies_11,.Movies_17,.Movies_23,.Movies_29,.Movies_35,.Movies_41{
+		margin-left: 45rem;
+		margin-top: -14rem;
+	}
+	.Movies_6,.Movies_12,.Movies_18,.Movies_24,.Movies_30,.Movies_36{
+		margin-left: 56rem;
+		margin-top: -14rem;
+	}
+
+
+
+}
+
+
+@media only screen and (min-width: 1462px){
+	.heading{
+color: white;
+margin-top:-25rem;
+font-size: 5rem;
+
+	}
+
+.Top_navbar a{
+ font-size: 1.3rem;
+}
+
+.All_Movies h1{
+	display: block;
+	text-align: center;
+	margin-top: 11rem;
+}
+	.All_Movies{
+		margin-left: 5rem;
+	}
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+	}
+
+
+	/*** First two shows **/
+		.Movies_1,.Movies_8,.Movies_15,.Movies_22,.Movies_29,.Movies_36{
+		margin-top: 1rem;
+		margin-left: 1rem;
+	}
+
+		.Movies_2,.Movies_9,.Movies_16,.Movies_23,.Movies_30,.Movies_37{
+		margin-left: 12rem;
+		margin-top:-14rem;
+	}
+
+	.Movies_3,.Movies_10,.Movies_17,.Movies_24,.Movies_31,.Movies_38{
+		margin-left: 23rem;
+		margin-top: -14rem;
+	}
+
+	.Movies_4,.Movies_11,.Movies_18,.Movies_25,.Movies_32,.Movies_39{
+		margin-left: 34rem;
+		margin-top: -14rem;
+	}
+
+	.Movies_5,.Movies_12,.Movies_19,.Movies_26,.Movies_33,.Movies_40{
+		margin-left: 45rem;
+		margin-top: -14rem;
+	}
+	.Movies_6,.Movies_13,.Movies_20,.Movies_27,.Movies_34,.Movies_41{
+		margin-left: 56rem;
+		margin-top: -14rem;
+	}
+
+	.Movies_7,.Movies_14,.Movies_21,.Movies_28,.Movies_35{
+		margin-left: 67rem;
+		margin-top: -14rem;
+	}
+
+
+}
+/**More Media Queries to be added **/
