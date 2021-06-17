@@ -546,6 +546,67 @@ margin-top:-11rem;
 
 }
 
+@media only screen and (min-width: 412px){
+	.heading{
+color: white;
+margin-top:-25rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding:0.2rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.2rem;
+	}
+
+.All_Shows{
+	display: block;
+	text-align: center;
+	margin-top: 13rem;
+}
+	.TV_Shows_Content{
+		margin-left: 1.5rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1{
+		margin-top: 0rem;
+		margin-left: 3rem;
+	}
+
+	.TV_Shows_2{
+		margin-left: 12rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.TV_Shows_3,.TV_Shows_5,.TV_Shows_7,.TV_Shows_9,.TV_Shows_11,.TV_Shows_13{
+margin-left: 3rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.TV_Shows_4,.TV_Shows_6,.TV_Shows_8,.TV_Shows_10,.TV_Shows_12{
+
+margin-left: 12rem;
+margin-top:-11rem;
+}
+
+
+}
+
 
 
 @media only screen and (min-width: 420px){
