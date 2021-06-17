@@ -1308,6 +1308,68 @@ margin-top:-11rem;
 
 }
 
+@media only screen and (max-width: 412px){
+.heading{
+color: white;
+margin-top:-25rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding:0.2rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.2rem;
+	}
+
+.All_Movies h1{
+	display: block;
+	text-align: center;
+	margin-top: 13rem;
+}
+.All_Movies{
+		margin-left: 1.5rem;
+	}
+
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+	}
+
+	/*** First two movies **/
+	.Movies_1{
+		margin-top: 0rem;
+		margin-left: 3rem;
+	}
+
+	.Movies_2{
+		margin-left: 12rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+		.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41{
+margin-left: 3rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40{
+
+margin-left: 12rem;
+margin-top:-11rem;
+}
+
+}
+
+
+
 
 @media only screen and (min-width: 420px){
 	.heading{
