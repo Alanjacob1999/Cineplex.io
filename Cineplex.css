@@ -1113,6 +1113,155 @@ margin-top:-11rem;
 }
 
 
+/********* Media Query *********/
+@media only screen and (min-width: 412px){
+	.heading{
+color: white;
+margin-top:-25rem;
+
+	}
+	.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding:0.2rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.2rem;
+	}
+
+/******Movie************/
+.Movies_Arrival{
+	margin-top: 13rem;
+	margin-left:1.5rem;
+}
+.Movies_Arrival h1{
+	display: block;
+	text-align: center;
+	margin-left:0rem;
+}
+
+.Movie_1,.Movie_2,.Movie_3,.Movie_4,.Movie_5,.Movie_6,.Movie_7{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+/*** First two shows **/
+	.Movie_1{
+		margin-top: 0rem;
+		margin-left: 3rem;
+	}
+
+	.Movie_2{
+		margin-left: 12rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.Movie_3,.Movie_5,.Movie_7,.Movie_9{
+margin-left: 3rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.Movie_4,.Movie_6,.Movie_8{
+
+margin-left: 12rem;
+margin-top:-11rem;
+}
+
+
+/******Marvel Movie***/
+.Marvel_Movies{
+	margin-top: 5rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 1150px;
+}
+
+.Marvel_Cinema h1{
+	display: block;
+	text-align: center;
+}
+
+.Movie_marvel_1,.Movie_marvel_2,.Movie_marvel_3,.Movie_marvel_4,.Movie_marvel_5,.Movie_marvel_6,.Movie_marvel_7,.Movie_marvel_8,.Movie_marvel_9{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+/*** First two shows **/
+	.Movie_marvel_1{
+		margin-top: 0rem;
+		margin-left: 5rem;
+	}
+
+	.Movie_marvel_2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.Movie_marvel_3,.Movie_marvel_5,.Movie_marvel_7,.Movie_marvel_9{
+margin-left: 5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.Movie_marvel_4,.Movie_marvel_6,.Movie_marvel_8{
+
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+
+
+/*********TV SHOWS***********/
+.TV_Shows_Arrival{
+	display: block;
+	text-align: center;
+	margin-top: 5rem;
+}
+	.TV_Shows_Content{
+		margin-left: 1.5rem;
+	}
+	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+
+	}
+	/*** First two shows **/
+	.TV_Shows_1{
+		margin-top: 0rem;
+		margin-left: 3rem;
+	}
+
+	.TV_Shows_2{
+		margin-left: 12rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.TV_Shows_3,.TV_Shows_5,.TV_Shows_7,.TV_Shows_9,.TV_Shows_11,.TV_Shows_13{
+margin-left: 3rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.TV_Shows_4,.TV_Shows_6,.TV_Shows_8,.TV_Shows_10,.TV_Shows_12{
+
+margin-left: 12rem;
+margin-top:-11rem;
+}
+
+
+}
+
+
 
 @media only screen and (min-width: 420px){
 	.heading{
