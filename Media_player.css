@@ -185,6 +185,38 @@ padding-bottom: 0.5rem;
 
 }
 
+@media only screen and (min-width: 412px){
+	.heading{
+color: white;
+margin-top:-25rem;
+
+	}
+
+.poster{
+		display: block;
+		margin: auto;
+		margin-top: 8rem;
+		filter:drop-shadow(8px 8px 10px gray);
+	}
+	.Top_navbar{
+		padding-top: 0.5rem;
+padding-bottom: 0.5rem;
+
+	}
+	.Top_navbar a{
+		padding-right: 0.5rem;
+	}
+
+	.Movies iframe{
+	display: block;
+	margin: auto;
+	width:100%;
+	height: 300px;
+}
+
+}
+
+
 @media only screen and (min-width: 420px){
 	.heading{
 color: white;
