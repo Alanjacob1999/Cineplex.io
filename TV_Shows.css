@@ -1,7 +1,9 @@
-/* Media Player for tv shows */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/** HEADING **/
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap');
 
 body{
 	font-family: 'Roboto', sans-serif;
@@ -73,6 +75,10 @@ font-weight: bold;
 	display: block;
 	text-align: center;
 	margin-top: 9rem;
+}
+
+.All_Shows h1{
+	font-family: 'Dosis', sans-serif;
 }
 
 .TV_Shows_Content{
@@ -513,13 +519,22 @@ margin-top:-25rem;
 	.TV_Shows_Content{
 		margin-left: 1.5rem;
 	}
+
 	.TV_Shows_1,.TV_Shows_2,.TV_Shows_3,.TV_Shows_4,.TV_Shows_5,.TV_Shows_6,.TV_Shows_7,.TV_Shows_8,.TV_Shows_9,.TV_Shows_10,.TV_Shows_11,.TV_Shows_12,.TV_Shows_13{
 		width:7.5rem;
         height:11rem;
         margin-left:0;
-
-
 	}
+
+/** Play button **/
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+
+		   margin-left:-0.5rem;
+        margin-top: -1rem;
+	}
+
+
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -578,9 +593,16 @@ margin-top:-25rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
-
-
 	}
+
+	/** Play button **/
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+
+		   margin-left:-0.5rem;
+        margin-top: -1rem;
+	}
+
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -644,9 +666,15 @@ font-size: 3rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
-
-
 	}
+
+	/** Play button **/
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+
+		   margin-left:-0.5rem;
+        margin-top: -1rem;
+	}
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -707,9 +735,16 @@ font-size: 4rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
-
-
 	}
+
+	/** Play button **/
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+
+		   margin-left:-0.5rem;
+        margin-top: -1rem;
+	}
+
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -765,9 +800,16 @@ font-size: 4rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
-
-
 	}
+
+	/** Play button **/
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+
+		   margin-left:-0.5rem;
+        margin-top: -1rem;
+	}
+
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -836,8 +878,16 @@ font-size: 5rem;
 		height: 14rem;
         margin-left:0;
 
-
 	}
+
+	/** Play button **/
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+
+		     margin-left:0.6rem;
+      margin-top: 0.5rem;
+	}
+
+
 	/*** First two shows **/
 	.TV_Shows_1,.TV_Shows_7,.TV_Shows_13{
 		margin-top: 1rem;
@@ -889,6 +939,11 @@ font-size: 5rem;
 	text-align: center;
 	margin-top: 11rem;
 }
+
+.All_Shows h1{
+	font-size: 3rem;
+}
+
 	.TV_Shows_Content{
 		margin-left: 5rem;
 	}
@@ -896,9 +951,15 @@ font-size: 5rem;
 		width:10rem;
 		height: 14rem;
         margin-left:0;
-
-
 	}
+
+		/** Play button **/
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+
+		     margin-left:0.6rem;
+      margin-top: 0.5rem;
+	}
+	
 	/*** First two shows **/
 	.TV_Shows_1,.TV_Shows_8{
 		margin-top: 1rem;
