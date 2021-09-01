@@ -1,7 +1,10 @@
-/* Media Player for tv shows */
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/**Heading**/
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap');
 
 body{
 	font-family: 'Roboto', sans-serif;
@@ -71,6 +74,7 @@ font-weight: bold;
 		display: block;
 	text-align: center;
 	margin-top: 9rem;
+	font-family: 'Dosis', sans-serif;
 }
 
 
@@ -356,7 +360,7 @@ border-radius: 5px;
 }
 
 .Movies_11{
-background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.aceshowbiz.com%2Fimages%2Fstill%2Fthe-vow-poster03.jpg&f=1&nofb=1");
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.filmofilia.com%2Fwp-content%2Fuploads%2F2011%2F11%2FThe%2BVow_3.jpg&f=1&nofb=1");
 background-size: cover;
 width:9rem;
 height: 14rem;
@@ -518,7 +522,7 @@ border-radius: 5px;
 }
 
 .Movies_17{
-background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fa-haunted-house-movie-poster-2013-1020753837.jpg&f=1&nofb=1");
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newdvdreleasedates.com%2Fimages%2Fposters%2Flarge%2Fa-haunted-house-2013-07.jpg&f=1&nofb=1");
 background-size: cover;
 width:9rem;
 height: 14rem;
@@ -1033,7 +1037,7 @@ border-radius: 5px;
 }
 
 .Movies_36{
-background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Ffast-and-furious-4-movie-poster-2009-1020695815.jpg&f=1&nofb=1");
+background-image:url("https://www.themoviedb.org/t/p/w220_and_h330_face/4CnhK4n3BgLV6XYisOv6RZsGmJn.jpg");
 background-size: cover;
 width:9rem;
 height: 14rem;
@@ -1193,6 +1197,621 @@ border-radius: 5px;
 	filter: grayscale(100%);
 	
 }
+
+/** Added on 29-08-21 **/
+.Movies_42{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-1JFMS1Oqtd0%2FXjbjRl2jqZI%2FAAAAAAAArsc%2F1RQOfgFoyQ0iCzHHIs3yKvZnA7X_Wi4ngCLcBGAsYHQ%2Fs1600%2FFF9_OptimisedTeaserJusticeIsComingPosters.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_42 a{
+	display: none;
+}
+.Movies_42:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_42:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_43{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pageofreviews.com%2Fwp-content%2Fuploads%2Fenders-game-poster.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_43 a{
+	display: none;
+}
+.Movies_43:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_43:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_44{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffilmzal.net%2Fwp-content%2Fuploads%2F2021%2F05%2Fmayor-grom-chumnoy-doktor.jpeg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_44 a{
+	display: none;
+}
+.Movies_44:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_44:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_45{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.reelgood.com%2Fcontent%2Fmovie%2F29ff728b-85a3-4422-abd2-293df791e4f9%2Fposter-780.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_45 a{
+	display: none;
+}
+.Movies_45:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_45:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_46{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.movieassets.com%2Fstatic%2Fimages%2Fitems%2Fmovies%2Fposters%2Fd9e7dc53d177c127d4cff89520e7e567.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+margin-left: 100rem;
+border-radius: 5px;
+
+}
+.Movies_46 a{
+	display: none;
+}
+.Movies_46:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_46:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_47{
+background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2iltjk184xms5.cloudfront.net%2Fuploads%2Fphoto%2Ffile%2F376931%2F2ef1b1806d244d9752e04f605a223084-dilemmaposter.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_47 a{
+	display: none;
+}
+.Movies_47:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_47:hover{
+	filter: grayscale(100%);
+	
+}
+
+/***** Added on 01-09-2021 *******/
+
+.Movies_48{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fis4.mzstatic.com%2Fimage%2Fthumb%2FPublication3%2Fv4%2Fd2%2Fc0%2F2f%2Fd2c02f2a-a388-3310-95e2-34ab4d65d0cd%2Fsource%2F1400x2040sr.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_48 a{
+	display: none;
+}
+.Movies_48:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_48:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_49{
+background-image: url("https://img1.od-cdn.com/ImageType-100/3450-1/%7BA79BB485-5A7B-4100-8661-3A4647E70BAF%7DImg100.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_49 a{
+	display: none;
+}
+.Movies_49:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_49:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_50{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6b%2F70%2Fc0%2F6b70c097334b3d8dbcb64e154a5eec58.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_50 a{
+	display: none;
+}
+.Movies_50:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_50:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_51{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.contentreserve.com%2FImageType-400%2F3450-1%2FC5B%2FBC1%2F36%2F%257BC5BBC136-2168-4DBF-838D-D909F3CC0CEC%257DImg400.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_51 a{
+	display: none;
+}
+.Movies_51:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_51:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_52{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.od-cdn.com%2FImageType-100%2F3450-1%2F%257B4C8A3B1A-B3F4-4CB2-A107-FD422F1A5674%257DImg100.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_52 a{
+	display: none;
+}
+.Movies_52:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_52:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_53{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.od-cdn.com%2FImageType-100%2F3450-1%2F%257B361AF83E-0361-4830-8755-DA21E56DC3BF%257DImg100.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_53 a{
+	display: none;
+}
+.Movies_53:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_53:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_54{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis3-ssl.mzstatic.com%2Fimage%2Fthumb%2FPublication6%2Fv4%2F69%2F65%2Fa5%2F6965a5b2-77eb-1b21-324b-273560ed1a94%2Fsource%2F1200x630bb.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_54 a{
+	display: none;
+}
+.Movies_54:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_54:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_55{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.theposterdb.com%2Fprod%2Fpublic%2Fimages%2Fposters%2Foptimized%2Fmovies%2F2068%2FLjhqyNa7jOvMxQXXlC1XVgGN5Fwmr7dJrkD23AzA.jpg&f=1&nofb=1");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_55 a{
+	display: none;
+}
+.Movies_55:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_55:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_56{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/nm5oRU0k7aUnDG9fbuj9B3ZkDdJ.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_56 a{
+	display: none;
+}
+.Movies_56:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_56:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_57{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/pN2f95osy5upkenxrKvOPV5jE75.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_57 a{
+	display: none;
+}
+.Movies_57:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_57:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_58{
+	background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/iP3XwuafHC1L2rZHGoejuaTsssT.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_58 a{
+	display: none;
+}
+.Movies_58:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_58:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_59{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/Srn5JV3sJMa3KcPS9IdZzIVBAa.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_59 a{
+	display: none;
+}
+.Movies_59:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_59:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_60{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_60 a{
+	display: none;
+}
+.Movies_60:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_60:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_61{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/hpYAhOJ8EdB6s9LKMBABmvrN2KV.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_61 a{
+	display: none;
+}
+.Movies_61:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_61:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_62{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/9w2UVajcXssgCVWV4rEtmuadpb9.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_62 a{
+	display: none;
+}
+.Movies_62:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_62:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_63{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_63 a{
+	display: none;
+}
+.Movies_63:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_63:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_64{
+	background-image: url("https://www.themoviedb.org/t/p/original/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_64 a{
+	display: none;
+}
+.Movies_64:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_64:hover{
+	filter: grayscale(100%);
+	
+}
+
+.Movies_65{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg");
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+
+}
+.Movies_65 a{
+	display: none;
+}
+.Movies_65:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.Movies_65:hover{
+	filter: grayscale(100%);
+	
+}
+
+
 /****************************** Footer **********************/
 
 /** Footer ***/
@@ -1277,10 +1896,17 @@ margin-top:-25rem;
 		margin-left: 1.5rem;
 	}
 
-	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41,.Movies_42,.Movies_43,.Movies_44,.Movies_45,.Movies_46,.Movies_47,.Movies_48,.Movies_49,.Movies_50,.Movies_51,.Movies_52,.Movies_52,.Movies_53,.Movies_54,.Movies_55,.Movies_56,.Movies_57,.Movies_58,.Movies_59,.Movies_60,.Movies_61,.Movies_62,.Movies_63,.Movies_64,.Movies_65{
 		width:7.5rem;
         height:11rem;
         margin-left:0;
+	}
+
+	/*** play button ***/
+	  .Movies_1:hover a,.Movies_2:hover a,.Movies_3:hover a,.Movies_4:hover a,.Movies_5:hover a,.Movies_6:hover a,.Movies_7:hover a,.Movies_8:hover a,.Movies_9:hover a,.Movies_10:hover a,.Movies_11:hover a,.Movies_12:hover a,.Movies_13:hover a,.Movies_14:hover a,.Movies_15:hover a,.Movies_16:hover a,.Movies_17:hover a,.Movies_18:hover a,.Movies_19:hover a,.Movies_20:hover a,.Movies_21:hover a,.Movies_22:hover a,.Movies_23:hover a,.Movies_24:hover a,.Movies_25:hover a,.Movies_26:hover a,.Movies_27:hover a,.Movies_28:hover a,.Movies_29:hover a,.Movies_30:hover a,.Movies_31:hover a,.Movies_32:hover a,.Movies_33:hover a,.Movies_34:hover a,.Movies_35:hover a,.Movies_36:hover a,.Movies_37:hover a,.Movies_38:hover a,.Movies_39:hover a,.Movies_40:hover a,.Movies_41:hover a,.Movies_42:hover a,.Movies_43:hover a,.Movies_44:hover a,.Movies_45:hover a,.Movies_46:hover a,.Movies_47:hover a,.Movies_48:hover a,.Movies_49:hover a,.Movies_50:hover a,.Movies_51:hover a,.Movies_52:hover a,.Movies_52:hover a,.Movies_53:hover a,.Movies_54:hover a,.Movies_55:hover a,.Movies_56:hover a,.Movies_57:hover a,.Movies_58:hover a,.Movies_59:hover a,.Movies_60:hover a,.Movies_61:hover a,.Movies_62:hover a,.Movies_63:hover a,.Movies_64:hover a,.Movies_65:hover a{
+
+        margin-left:-0.5rem;
+        margin-top: -1rem;
 	}
 
 	/*** First two movies **/
@@ -1294,13 +1920,13 @@ margin-top:-25rem;
 		margin-top:-11rem;
 	}
 /*** All odd shows **/
-		.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41{
+		.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41,.Movies_43,.Movies_45,.Movies_47,.Movies_49,.Movies_51,.Movies_53,.Movies_55,.Movies_57,.Movies_59,.Movies_61,.Movies_63,.Movies_65{
 margin-left: 1rem;
 margin-top:1rem;
 }
 
 /** All Even Shows **/
-.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40{
+.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40,.Movies_42,.Movies_44,.Movies_46,.Movies_48,.Movies_50,.Movies_52,.Movies_54,.Movies_56,.Movies_58,.Movies_60,.Movies_62,.Movies_64{
 
 margin-left: 10rem;
 margin-top:-11rem;
@@ -1331,16 +1957,24 @@ margin-top:-25rem;
 .All_Movies h1{
 	display: block;
 	text-align: center;
-	margin-top: 13rem;
+	margin-top: 13rem';
 }
 .All_Movies{
 		margin-left: 1.5rem;
 	}
 
-	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41,.Movies_42,.Movies_43,.Movies_44,.Movies_45,.Movies_46,.Movies_47,.Movies_48,.Movies_49,.Movies_50,.Movies_51,.Movies_52,.Movies_52,.Movies_53,.Movies_54,.Movies_55,.Movies_56,.Movies_57,.Movies_58,.Movies_59,.Movies_60,.Movies_61,.Movies_62,.Movies_63,.Movies_64,.Movies_65{
 		width:7.5rem;
         height:11rem;
         margin-left:0;
+	}
+
+	/*** play button ***/
+	  .Movies_1:hover a,.Movies_2:hover a,.Movies_3:hover a,.Movies_4:hover a,.Movies_5:hover a,.Movies_6:hover a,.Movies_7:hover a,.Movies_8:hover a,.Movies_9:hover a,.Movies_10:hover a,.Movies_11:hover a,.Movies_12:hover a,.Movies_13:hover a,.Movies_14:hover a,.Movies_15:hover a,.Movies_16:hover a,.Movies_17:hover a,.Movies_18:hover a,.Movies_19:hover a,.Movies_20:hover a,.Movies_21:hover a,.Movies_22:hover a,.Movies_23:hover a,.Movies_24:hover a,.Movies_25:hover a,.Movies_26:hover a,.Movies_27:hover a,.Movies_28:hover a,.Movies_29:hover a,.Movies_30:hover a,.Movies_31:hover a,.Movies_32:hover a,.Movies_33:hover a,.Movies_34:hover a,.Movies_35:hover a,.Movies_36:hover a,.Movies_37:hover a,.Movies_38:hover a,.Movies_39:hover a,.Movies_40:hover a,.Movies_41:hover a,.Movies_42:hover a,.Movies_43:hover a,.Movies_44:hover a,.Movies_45:hover a,.Movies_46:hover a,.Movies_47:hover a,.Movies_48:hover a,.Movies_49:hover a,.Movies_50:hover a,.Movies_51:hover a,.Movies_52:hover a,.Movies_52:hover a,.Movies_53:hover a,.Movies_54:hover a,.Movies_55:hover a,.Movies_56:hover a,.Movies_57:hover a,.Movies_58:hover a,.Movies_59:hover a,.Movies_60:hover a,.Movies_61:hover a,.Movies_62:hover a,.Movies_63:hover a,.Movies_64:hover a,.Movies_65:hover a{
+
+     margin-left:-0.5rem;
+        margin-top: -1rem;
+
 	}
 
 	/*** First two movies **/
@@ -1354,13 +1988,13 @@ margin-top:-25rem;
 		margin-top:-11rem;
 	}
 /*** All odd shows **/
-		.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41{
+	.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41,.Movies_43,.Movies_45,.Movies_47,.Movies_49,.Movies_51,.Movies_53,.Movies_55,.Movies_57,.Movies_59,.Movies_61,.Movies_63,.Movies_65{
 margin-left: 3rem;
 margin-top:1rem;
 }
 
 /** All Even Shows **/
-.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40{
+	.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40,.Movies_42,.Movies_44,.Movies_46,.Movies_48,.Movies_50,.Movies_52,.Movies_54,.Movies_56,.Movies_58,.Movies_60,.Movies_62,.Movies_64{
 
 margin-left: 12rem;
 margin-top:-11rem;
@@ -1405,12 +2039,21 @@ font-size: 3rem;
 		margin-top: 13rem;
 	}
 
-	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41,.Movies_42,.Movies_43,.Movies_44,.Movies_45,.Movies_46,.Movies_47,.Movies_48,.Movies_49,.Movies_50,.Movies_51,.Movies_52,.Movies_52,.Movies_53,.Movies_54,.Movies_55,.Movies_56,.Movies_57,.Movies_58,.Movies_59,.Movies_60,.Movies_61,.Movies_62,.Movies_63,.Movies_64,.Movies_65{
 
 		width:7.5rem;
         height:11rem;
         margin-left:0;
 	}
+
+	/*** play button ***/
+	  .Movies_1:hover a,.Movies_2:hover a,.Movies_3:hover a,.Movies_4:hover a,.Movies_5:hover a,.Movies_6:hover a,.Movies_7:hover a,.Movies_8:hover a,.Movies_9:hover a,.Movies_10:hover a,.Movies_11:hover a,.Movies_12:hover a,.Movies_13:hover a,.Movies_14:hover a,.Movies_15:hover a,.Movies_16:hover a,.Movies_17:hover a,.Movies_18:hover a,.Movies_19:hover a,.Movies_20:hover a,.Movies_21:hover a,.Movies_22:hover a,.Movies_23:hover a,.Movies_24:hover a,.Movies_25:hover a,.Movies_26:hover a,.Movies_27:hover a,.Movies_28:hover a,.Movies_29:hover a,.Movies_30:hover a,.Movies_31:hover a,.Movies_32:hover a,.Movies_33:hover a,.Movies_34:hover a,.Movies_35:hover a,.Movies_36:hover a,.Movies_37:hover a,.Movies_38:hover a,.Movies_39:hover a,.Movies_40:hover a,.Movies_41:hover a,.Movies_42:hover a,.Movies_43:hover a,.Movies_44:hover a,.Movies_45:hover a,.Movies_46:hover a,.Movies_47:hover a,.Movies_48:hover a,.Movies_49:hover a,.Movies_50:hover a,.Movies_51:hover a,.Movies_52:hover a,.Movies_52:hover a,.Movies_53:hover a,.Movies_54:hover a,.Movies_55:hover a,.Movies_56:hover a,.Movies_57:hover a,.Movies_58:hover a,.Movies_59:hover a,.Movies_60:hover a,.Movies_61:hover a,.Movies_62:hover a,.Movies_63:hover a,.Movies_64:hover a,.Movies_65:hover a{
+
+     margin-left:-0.5rem;
+        margin-top: -1rem;
+
+	}
+
 
 	/*** First two shows **/
 	.Movies_1{
@@ -1423,13 +2066,13 @@ font-size: 3rem;
 		margin-top:-11rem;
 	}
 /*** All odd shows **/
-	.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41{
+	.Movies_3,.Movies_5,.Movies_7,.Movies_9,.Movies_11,.Movies_13,.Movies_15,.Movies_17,.Movies_19,.Movies_21,.Movies_23,.Movies_25,.Movies_27,.Movies_29,.Movies_31,.Movies_33,.Movies_35,.Movies_37,.Movies_39,.Movies_41,.Movies_43,.Movies_45,.Movies_47,.Movies_49,.Movies_51,.Movies_53,.Movies_55,.Movies_57,.Movies_59,.Movies_61,.Movies_63,.Movies_65{
 margin-left: 1rem;
 margin-top:1rem;
 }
 
 /** All Even Shows **/
-.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40{
+	.Movies_4,.Movies_6,.Movies_8,.Movies_10,.Movies_12,.Movies_14,.Movies_16,.Movies_18,.Movies_20,.Movies_22,.Movies_24,.Movies_26,.Movies_28,.Movies_30,.Movies_32,.Movies_34,.Movies_36,.Movies_38,.Movies_40,.Movies_42,.Movies_44,.Movies_46,.Movies_48,.Movies_50,.Movies_52,.Movies_54,.Movies_56,.Movies_58,.Movies_60,.Movies_62,.Movies_64{
 
 margin-left: 10rem;
 margin-top:-11rem;
@@ -1471,10 +2114,19 @@ font-size: 4rem;
 	.All_Movies{
 		margin-left: 4.5rem;
 	}
-	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41,.Movies_42,.Movies_43,.Movies_44,.Movies_45,.Movies_46,.Movies_47,.Movies_48,.Movies_49,.Movies_50,.Movies_51,.Movies_52,.Movies_52,.Movies_53,.Movies_54,.Movies_55,.Movies_56,.Movies_57,.Movies_58,.Movies_59,.Movies_60,.Movies_61,.Movies_62,.Movies_63,.Movies_64,.Movies_65{
+
 		width:7.5rem;
         height:11rem;
         margin-left:0;
+	}
+
+	/*** play button ***/
+	  .Movies_1:hover a,.Movies_2:hover a,.Movies_3:hover a,.Movies_4:hover a,.Movies_5:hover a,.Movies_6:hover a,.Movies_7:hover a,.Movies_8:hover a,.Movies_9:hover a,.Movies_10:hover a,.Movies_11:hover a,.Movies_12:hover a,.Movies_13:hover a,.Movies_14:hover a,.Movies_15:hover a,.Movies_16:hover a,.Movies_17:hover a,.Movies_18:hover a,.Movies_19:hover a,.Movies_20:hover a,.Movies_21:hover a,.Movies_22:hover a,.Movies_23:hover a,.Movies_24:hover a,.Movies_25:hover a,.Movies_26:hover a,.Movies_27:hover a,.Movies_28:hover a,.Movies_29:hover a,.Movies_30:hover a,.Movies_31:hover a,.Movies_32:hover a,.Movies_33:hover a,.Movies_34:hover a,.Movies_35:hover a,.Movies_36:hover a,.Movies_37:hover a,.Movies_38:hover a,.Movies_39:hover a,.Movies_40:hover a,.Movies_41:hover a,.Movies_42:hover a,.Movies_43:hover a,.Movies_44:hover a,.Movies_45:hover a,.Movies_46:hover a,.Movies_47:hover a,.Movies_48:hover a,.Movies_49:hover a,.Movies_50:hover a,.Movies_51:hover a,.Movies_52:hover a,.Movies_52:hover a,.Movies_53:hover a,.Movies_54:hover a,.Movies_55:hover a,.Movies_56:hover a,.Movies_57:hover a,.Movies_58:hover a,.Movies_59:hover a,.Movies_60:hover a,.Movies_61:hover a,.Movies_62:hover a,.Movies_63:hover a,.Movies_64:hover a,.Movies_65:hover a{
+
+     margin-left:-0.5rem;
+        margin-top: -1rem;
+
 	}
 
 
@@ -1495,22 +2147,20 @@ font-size: 4rem;
 	}
 
 /*** All three shows **/
-.Movies_4,.Movies_7,.Movies_10,.Movies_13,.Movies_16,.Movies_19,.Movies_22,.Movies_25,.Movies_27,.Movies_30,.Movies_33,.Movies_36,.Movies_39{
+.Movies_4,.Movies_7,.Movies_10,.Movies_13,.Movies_16,.Movies_19,.Movies_22,.Movies_25,.Movies_27,.Movies_30,.Movies_33,.Movies_36,.Movies_39,.Movies_42,.Movies_45,.Movies_48,.Movies_51,.Movies_54,.Movies_57,.Movies_60,.Movies_63{
 	margin-top: 1rem;
 	margin-left: 1rem;
 }
 
-.Movies_5,.Movies_8,.Movies_11,.Movies_14,.Movies_17,.Movies_20,.Movies_23,.Movies_26,.Movies_28,.Movies_31,.Movies_34,.Movies_37,.Movies_40{
+.Movies_5,.Movies_8,.Movies_11,.Movies_14,.Movies_17,.Movies_20,.Movies_23,.Movies_26,.Movies_28,.Movies_31,.Movies_34,.Movies_37,.Movies_40,.Movies_43,.Movies_46,.Movies_49,.Movies_52,.Movies_55,.Movies_58,.Movies_61,.Movies_64{
 	margin-left: 10rem;
 	margin-top:-11rem;
 }
 
-.Movies_6,.Movies_9,.Movies_12,.Movies_15,.Movies_18,.Movies_21,.Movies_24,.Movies_27,.Movies_29,.Movies_32,.Movies_35,.Movies_38,.Movies_41{
+.Movies_6,.Movies_9,.Movies_12,.Movies_15,.Movies_18,.Movies_21,.Movies_24,.Movies_27,.Movies_29,.Movies_32,.Movies_35,.Movies_38,.Movies_41,.Movies_44,.Movies_47,.Movies_50,.Movies_53,.Movies_56,.Movies_59,.Movies_62,.Movies_65{
 		margin-left: 19rem;
 		margin-top: -11rem;
 	}
-
-
 
 }
 
@@ -1528,13 +2178,24 @@ font-size: 4rem;
 	.All_Movies{
 		margin-left: 4rem;
 	}
-	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+
+	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41,.Movies_42,.Movies_43,.Movies_44,.Movies_45,.Movies_46,.Movies_47,.Movies_48,.Movies_49,.Movies_50,.Movies_51,.Movies_52,.Movies_52,.Movies_53,.Movies_54,.Movies_55,.Movies_56,.Movies_57,.Movies_58,.Movies_59,.Movies_60,.Movies_61,.Movies_62,.Movies_63,.Movies_64,.Movies_65{
+
 		width:7.5rem;
         height:11rem;
         margin-left:0;
 
+	}
+
+	/*** play button ***/
+	  .Movies_1:hover a,.Movies_2:hover a,.Movies_3:hover a,.Movies_4:hover a,.Movies_5:hover a,.Movies_6:hover a,.Movies_7:hover a,.Movies_8:hover a,.Movies_9:hover a,.Movies_10:hover a,.Movies_11:hover a,.Movies_12:hover a,.Movies_13:hover a,.Movies_14:hover a,.Movies_15:hover a,.Movies_16:hover a,.Movies_17:hover a,.Movies_18:hover a,.Movies_19:hover a,.Movies_20:hover a,.Movies_21:hover a,.Movies_22:hover a,.Movies_23:hover a,.Movies_24:hover a,.Movies_25:hover a,.Movies_26:hover a,.Movies_27:hover a,.Movies_28:hover a,.Movies_29:hover a,.Movies_30:hover a,.Movies_31:hover a,.Movies_32:hover a,.Movies_33:hover a,.Movies_34:hover a,.Movies_35:hover a,.Movies_36:hover a,.Movies_37:hover a,.Movies_38:hover a,.Movies_39:hover a,.Movies_40:hover a,.Movies_41:hover a,.Movies_42:hover a,.Movies_43:hover a,.Movies_44:hover a,.Movies_45:hover a,.Movies_46:hover a,.Movies_47:hover a,.Movies_48:hover a,.Movies_49:hover a,.Movies_50:hover a,.Movies_51:hover a,.Movies_52:hover a,.Movies_52:hover a,.Movies_53:hover a,.Movies_54:hover a,.Movies_55:hover a,.Movies_56:hover a,.Movies_57:hover a,.Movies_58:hover a,.Movies_59:hover a,.Movies_60:hover a,.Movies_61:hover a,.Movies_62:hover a,.Movies_63:hover a,.Movies_64:hover a,.Movies_65:hover a{
+
+     margin-left:-0.5rem;
+        margin-top: -1rem;
 
 	}
+
+
 	/*** First two shows **/
 	.Movies_1{
 		margin-top: 0rem;
@@ -1556,21 +2217,21 @@ font-size: 4rem;
 		margin-top: -11rem;
 	}
 /*** All three shows **/
-.Movies_5,.Movies_9,.Movies_13,.Movies_17,.Movies_21,.Movies_25,.Movies_29,.Movies_33,.Movies_37,.Movies_41{
+.Movies_5,.Movies_9,.Movies_13,.Movies_17,.Movies_21,.Movies_25,.Movies_29,.Movies_33,.Movies_37,.Movies_41,.Movies_45,.Movies_49,.Movies_53,.Movies_57,.Movies_61,.Movies_65{
 	margin-top: 1rem;
 	margin-left: 1rem;
 }
 
-.Movies_6,.Movies_10,.Movies_14,.Movies_18,.Movies_22,.Movies_26,.Movies_30,.Movies_34,.Movies_38{
+.Movies_6,.Movies_10,.Movies_14,.Movies_18,.Movies_22,.Movies_26,.Movies_30,.Movies_34,.Movies_38,.Movies_42,.Movies_46,.Movies_50,.Movies_54,.Movies_58,.Movies_62{
 	margin-left: 10rem;
 	margin-top:-11rem;
 }
 
-.Movies_7,.Movies_11,.Movies_15,.Movies_19,.Movies_23,.Movies_27,.Movies_31,.Movies_35,.Movies_39{
+.Movies_7,.Movies_11,.Movies_15,.Movies_19,.Movies_23,.Movies_27,.Movies_31,.Movies_35,.Movies_39,.Movies_43,.Movies_47,.Movies_51,.Movies_55,.Movies_59,.Movies_63{
 		margin-left: 19rem;
 		margin-top: -11rem;
 	}
-.Movies_8,.Movies_12,.Movies_16,.Movies_20,.Movies_24,.Movies_28,.Movies_32,.Movies_36,.Movies_40{
+.Movies_8,.Movies_12,.Movies_16,.Movies_20,.Movies_24,.Movies_28,.Movies_32,.Movies_36,.Movies_40,.Movies_44,.Movies_48,.Movies_52,.Movies_56,.Movies_60,.Movies_64{
 		margin-left: 28rem;
 		margin-top: -11rem;
 	}
@@ -1598,44 +2259,50 @@ font-size: 5rem;
 	.All_Movies{
 		margin-left: 4rem;
 	}
-	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+		.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41,.Movies_42,.Movies_43,.Movies_44,.Movies_45,.Movies_46,.Movies_47,.Movies_48,.Movies_49,.Movies_50,.Movies_51,.Movies_52,.Movies_52,.Movies_53,.Movies_54,.Movies_55,.Movies_56,.Movies_57,.Movies_58,.Movies_59,.Movies_60,.Movies_61,.Movies_62,.Movies_63,.Movies_64,.Movies_65{
+
 		width:10rem;
 		height: 14rem;
         margin-left:0;
 	}
 
+	/*** play button ***/
+	  .Movies_1:hover a,.Movies_2:hover a,.Movies_3:hover a,.Movies_4:hover a,.Movies_5:hover a,.Movies_6:hover a,.Movies_7:hover a,.Movies_8:hover a,.Movies_9:hover a,.Movies_10:hover a,.Movies_11:hover a,.Movies_12:hover a,.Movies_13:hover a,.Movies_14:hover a,.Movies_15:hover a,.Movies_16:hover a,.Movies_17:hover a,.Movies_18:hover a,.Movies_19:hover a,.Movies_20:hover a,.Movies_21:hover a,.Movies_22:hover a,.Movies_23:hover a,.Movies_24:hover a,.Movies_25:hover a,.Movies_26:hover a,.Movies_27:hover a,.Movies_28:hover a,.Movies_29:hover a,.Movies_30:hover a,.Movies_31:hover a,.Movies_32:hover a,.Movies_33:hover a,.Movies_34:hover a,.Movies_35:hover a,.Movies_36:hover a,.Movies_37:hover a,.Movies_38:hover a,.Movies_39:hover a,.Movies_40:hover a,.Movies_41:hover a,.Movies_42:hover a,.Movies_43:hover a,.Movies_44:hover a,.Movies_45:hover a,.Movies_46:hover a,.Movies_47:hover a,.Movies_48:hover a,.Movies_49:hover a,.Movies_50:hover a,.Movies_51:hover a,.Movies_52:hover a,.Movies_52:hover a,.Movies_53:hover a,.Movies_54:hover a,.Movies_55:hover a,.Movies_56:hover a,.Movies_57:hover a,.Movies_58:hover a,.Movies_59:hover a,.Movies_60:hover a,.Movies_61:hover a,.Movies_62:hover a,.Movies_63:hover a,.Movies_64:hover a,.Movies_65:hover a{
+
+      margin-left:0.6rem;
+      margin-top: 0.5rem;
+
+	}
+
 	/*** First two shows **/
-	.Movies_1,.Movies_7,.Movies_13,.Movies_19,.Movies_25,.Movies_31,.Movies_37{
+	.Movies_1,.Movies_7,.Movies_13,.Movies_19,.Movies_25,.Movies_31,.Movies_37,.Movies_43,.Movies_49,.Movies_55,.Movies_61{
 		margin-top: 1rem;
 		margin-left: 1rem;
 	}
 
-	.Movies_2,.Movies_8,.Movies_14,.Movies_20,.Movies_26,.Movies_32,.Movies_38{
+	.Movies_2,.Movies_8,.Movies_14,.Movies_20,.Movies_26,.Movies_32,.Movies_38,.Movies_44,.Movies_50,.Movies_56,.Movies_62{
 		margin-left: 12rem;
 		margin-top:-14rem;
 	}
 
-	.Movies_3,.Movies_9,.Movies_15,.Movies_21,.Movies_27,.Movies_33,.Movies_39{
+	.Movies_3,.Movies_9,.Movies_15,.Movies_21,.Movies_27,.Movies_33,.Movies_39,.Movies_45,.Movies_51,.Movies_57,.Movies_63{
 		margin-left: 23rem;
 		margin-top: -14rem;
 	}
 
-	.Movies_4,.Movies_10,.Movies_16,.Movies_22,.Movies_28,.Movies_34,.Movies_40{
+	.Movies_4,.Movies_10,.Movies_16,.Movies_22,.Movies_28,.Movies_34,.Movies_40,.Movies_46,.Movies_52,.Movies_58,.Movies_64{
 		margin-left: 34rem;
 		margin-top: -14rem;
 	}
 
-	.Movies_5,.Movies_11,.Movies_17,.Movies_23,.Movies_29,.Movies_35,.Movies_41{
+	.Movies_5,.Movies_11,.Movies_17,.Movies_23,.Movies_29,.Movies_35,.Movies_41,.Movies_47,.Movies_53,.Movies_59,.Movies_65{
 		margin-left: 45rem;
 		margin-top: -14rem;
 	}
-	.Movies_6,.Movies_12,.Movies_18,.Movies_24,.Movies_30,.Movies_36{
+	.Movies_6,.Movies_12,.Movies_18,.Movies_24,.Movies_30,.Movies_36,.Movies_42,.Movies_48,.Movies_54,.Movies_60{
 		margin-left: 56rem;
 		margin-top: -14rem;
 	}
-
-
-
 }
 
 
@@ -1655,48 +2322,59 @@ font-size: 5rem;
 	display: block;
 	text-align: center;
 	margin-top: 11rem;
+	font-size: 3rem;
 }
 	.All_Movies{
 		margin-left: 5rem;
 	}
-	.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41{
+
+		.Movies_1,.Movies_2,.Movies_3,.Movies_4,.Movies_5,.Movies_6,.Movies_7,.Movies_8,.Movies_9,.Movies_10,.Movies_11,.Movies_12,.Movies_13,.Movies_14,.Movies_15,.Movies_16,.Movies_17,.Movies_18,.Movies_19,.Movies_20,.Movies_21,.Movies_22,.Movies_23,.Movies_24,.Movies_25,.Movies_26,.Movies_27,.Movies_28,.Movies_29,.Movies_30,.Movies_31,.Movies_32,.Movies_33,.Movies_34,.Movies_35,.Movies_36,.Movies_37,.Movies_38,.Movies_39,.Movies_40,.Movies_41,.Movies_42,.Movies_43,.Movies_44,.Movies_45,.Movies_46,.Movies_47,.Movies_48,.Movies_49,.Movies_50,.Movies_51,.Movies_52,.Movies_52,.Movies_53,.Movies_54,.Movies_55,.Movies_56,.Movies_57,.Movies_58,.Movies_59,.Movies_60,.Movies_61,.Movies_62,.Movies_63,.Movies_64,.Movies_65{
+
 		width:10rem;
 		height: 14rem;
         margin-left:0;
 	}
 
+		/*** play button ***/
+	  .Movies_1:hover a,.Movies_2:hover a,.Movies_3:hover a,.Movies_4:hover a,.Movies_5:hover a,.Movies_6:hover a,.Movies_7:hover a,.Movies_8:hover a,.Movies_9:hover a,.Movies_10:hover a,.Movies_11:hover a,.Movies_12:hover a,.Movies_13:hover a,.Movies_14:hover a,.Movies_15:hover a,.Movies_16:hover a,.Movies_17:hover a,.Movies_18:hover a,.Movies_19:hover a,.Movies_20:hover a,.Movies_21:hover a,.Movies_22:hover a,.Movies_23:hover a,.Movies_24:hover a,.Movies_25:hover a,.Movies_26:hover a,.Movies_27:hover a,.Movies_28:hover a,.Movies_29:hover a,.Movies_30:hover a,.Movies_31:hover a,.Movies_32:hover a,.Movies_33:hover a,.Movies_34:hover a,.Movies_35:hover a,.Movies_36:hover a,.Movies_37:hover a,.Movies_38:hover a,.Movies_39:hover a,.Movies_40:hover a,.Movies_41:hover a,.Movies_42:hover a,.Movies_43:hover a,.Movies_44:hover a,.Movies_45:hover a,.Movies_46:hover a,.Movies_47:hover a,.Movies_48:hover a,.Movies_49:hover a,.Movies_50:hover a,.Movies_51:hover a,.Movies_52:hover a,.Movies_52:hover a,.Movies_53:hover a,.Movies_54:hover a,.Movies_55:hover a,.Movies_56:hover a,.Movies_57:hover a,.Movies_58:hover a,.Movies_59:hover a,.Movies_60:hover a,.Movies_61:hover a,.Movies_62:hover a,.Movies_63:hover a,.Movies_64:hover a,.Movies_65:hover a{
+
+      margin-left:0.6rem;
+      margin-top: 0.5rem;
+
+	}
+
 
 	/*** First two shows **/
-		.Movies_1,.Movies_8,.Movies_15,.Movies_22,.Movies_29,.Movies_36{
+		.Movies_1,.Movies_8,.Movies_15,.Movies_22,.Movies_29,.Movies_36,.Movies_43,.Movies_50,.Movies_57,.Movies_64{
 		margin-top: 1rem;
 		margin-left: 1rem;
 	}
 
-		.Movies_2,.Movies_9,.Movies_16,.Movies_23,.Movies_30,.Movies_37{
+		.Movies_2,.Movies_9,.Movies_16,.Movies_23,.Movies_30,.Movies_37,.Movies_44,.Movies_51,.Movies_58,.Movies_65{
 		margin-left: 12rem;
 		margin-top:-14rem;
 	}
 
-	.Movies_3,.Movies_10,.Movies_17,.Movies_24,.Movies_31,.Movies_38{
+	.Movies_3,.Movies_10,.Movies_17,.Movies_24,.Movies_31,.Movies_38,.Movies_45,.Movies_52,.Movies_59{
 		margin-left: 23rem;
 		margin-top: -14rem;
 	}
 
-	.Movies_4,.Movies_11,.Movies_18,.Movies_25,.Movies_32,.Movies_39{
+	.Movies_4,.Movies_11,.Movies_18,.Movies_25,.Movies_32,.Movies_39,.Movies_46,.Movies_53,.Movies_60{
 		margin-left: 34rem;
 		margin-top: -14rem;
 	}
 
-	.Movies_5,.Movies_12,.Movies_19,.Movies_26,.Movies_33,.Movies_40{
+	.Movies_5,.Movies_12,.Movies_19,.Movies_26,.Movies_33,.Movies_40,.Movies_47,.Movies_54,.Movies_61{
 		margin-left: 45rem;
 		margin-top: -14rem;
 	}
-	.Movies_6,.Movies_13,.Movies_20,.Movies_27,.Movies_34,.Movies_41{
+	.Movies_6,.Movies_13,.Movies_20,.Movies_27,.Movies_34,.Movies_41,.Movies_48,.Movies_55,.Movies_62{
 		margin-left: 56rem;
 		margin-top: -14rem;
 	}
 
-	.Movies_7,.Movies_14,.Movies_21,.Movies_28,.Movies_35{
+	.Movies_7,.Movies_14,.Movies_21,.Movies_28,.Movies_35,.Movies_42,.Movies_49,.Movies_56,.Movies_63{
 		margin-left: 67rem;
 		margin-top: -14rem;
 	}
