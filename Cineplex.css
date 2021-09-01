@@ -2,6 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=ZCOOL+KuaiLe&display=swap');
+
+/** Recommendation **/
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap'); 
+/** For insidious **/
 
 body{
 	font-family: 'Roboto', sans-serif;
@@ -73,10 +78,11 @@ display: block;
 text-align: center;
 	margin-top: 9rem;
 	margin-left: -5rem;
+	font-family: 'Dosis', sans-serif;
 }
 
 .Movie_1{
-	background-image: url("https://2.bp.blogspot.com/--H7rlgYSAcY/XtXGoF6GNRI/AAAAAAAAF9g/fyVt7oz0zHEHHCSkbiuSwLpQdeBk1dUhACK4BGAYYCw/s1600/Godzilla-VS-Kong-Poster-BY-AndrewVM-2020-GVK42020.png");
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.reelgood.com%2Fcontent%2Fmovie%2F9de022f9-ed88-47db-8cc9-052e74347252%2Fposter-780.jpg&f=1&nofb=1");
 	  background-repeat: no-repeat;
 background-size: cover;
 width:9rem;
@@ -104,7 +110,7 @@ border-radius: 5px;
 }
 
 .Movie_2{
-	background-image: url("http://simplywallpaper.net/pictures/2010/12/16/Tron-Legacy-Poster-Wallpaper.jpg");
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pageofreviews.com%2Fwp-content%2Fuploads%2Fenders-game-poster.jpg&f=1&nofb=1");
 	background-repeat: no-repeat;
 background-size: cover;
 width:9rem;
@@ -132,7 +138,7 @@ border-radius: 5px;
 }
 
 .Movie_3{
-	background-image: url("https://filmeserialegratis.org/wp-content/uploads/2019/09/five-feet-apart-3718-poster.jpg");
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftvhaiz.net%2Fwp-content%2Fuploads%2F2021%2F07%2Fthieu-ta-grom-bac-si-benh-dich-1366.jpg&f=1&nofb=1");
 background-repeat: no-repeat;
 background-size: cover;
 width:9rem;
@@ -160,7 +166,7 @@ border-radius: 5px;
 }
 
 .Movie_4{
-	background-image: url("http://www.fadedindustry.com/wp-content/uploads/2013/06/world-war-z-movie-poster.jpg");
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa4%2F78%2F79%2Fa4787900cc8ebd5bfd78d35ee3b45435.jpg&f=1&nofb=1");
 	background-repeat: no-repeat;
 background-size: cover;
 width:9rem;
@@ -188,7 +194,7 @@ border-radius: 5px;
 }
 
 .Movie_5{
-background-image: url("https://fanart.tv/fanart/movies/11324/movieposter/shutter-island-54157e16cf1d2.jpg");
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.movieassets.com%2Fstatic%2Fimages%2Fitems%2Fmovies%2Fposters%2Fd9e7dc53d177c127d4cff89520e7e567.jpg&f=1&nofb=1");
 	background-repeat: no-repeat;
 background-size: cover;
 width:9rem;
@@ -216,7 +222,7 @@ border-radius: 5px;
 }
 
 .Movie_6{
-background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F80274%2Fmovieposter%2Fenders-game-5329d8342d04b.jpg&f=1&nofb=1");
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.meotherwise.com%2Fwp-content%2Fuploads%2F2020%2F09%2F1_ijRQhopKew_RB358PA9-yA-scaled.jpeg%3Ffit%3D1707%252C2560%26ssl%3D1&f=1&nofb=1");
 	background-repeat: no-repeat;
 background-size: cover;
 width:9rem;
@@ -292,6 +298,10 @@ background-color: white;
 margin-right: -0.5rem;
 margin-left: -0.5rem;
 height: 500px;
+}
+
+.Marvel_Movies h1{
+font-family: 'Dosis', sans-serif;
 }
 .marvel_logo{
 	background-color: red;
@@ -553,6 +563,10 @@ border-radius: 5px;
 	display: block;
 	text-align: center;
 	margin-top: 9rem;
+}
+
+.TV_Shows_Arrival h1{
+font-family: 'Dosis', sans-serif;
 }
 
 .TV_Shows_Content{
@@ -912,6 +926,1405 @@ border-radius: 5px;
 	
 }
 
+/************************** Love story movies ******************************/
+
+.love_story{
+margin-right: -0.5rem;
+margin-left: -0.5rem;
+display: block;
+text-align: center;
+color:#212121;
+}
+
+.love_story h1{
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.L1{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.moviehdwallpapers.com%2Fwp-content%2Fuploads%2F2014%2F01%2FAbout-Time-Poster.jpg&f=1&nofb=1");
+	  background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.L1 a{
+	display: none;
+}
+
+.L1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.L1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.L2{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.filmofilia.com%2Fwp-content%2Fuploads%2F2011%2F11%2FThe%2BVow_3.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+
+margin-top: -14rem;
+border-radius: 5px;
+}
+.L2 a{
+	display: none;
+}
+.L2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.L2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.L3{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fusercontent1.hubstatic.com%2F14499312_f1024.jpg&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.L3 a{
+	display: none;
+}
+.L3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.L3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.L4{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F28HcbSyLA3SlgmXSEnt5gOPaiKH.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.L4 a{
+	display: none;
+}
+.L4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.L4:hover{
+	filter: grayscale(100%);
+	
+}
+
+.L5{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.whats-on-netflix.com%2Fwp-content%2Fuploads%2Fcovers%2Facaliforniachristmas.jpeg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.L5 a{
+	display: none;
+}
+.L5:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.L5:hover{
+	filter: grayscale(100%);
+	
+}
+
+.L6{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fart-1.nflximg.net%2F75296%2Faa717e6f43760d9ef09fb2ceba35a33e16075296.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.L6 a{
+	display: none;
+}
+.L6:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.L6:hover{
+	filter: grayscale(100%);
+	
+}
+
+.L7{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ungrandmoment.be%2Fwp-content%2Fuploads%2F2013%2F03%2FWarm-Bodies-affiche.jpg&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.L7 a{
+	display: none;
+}
+.L7:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.L7:hover{
+	filter: grayscale(100%);
+	
+}
+/**************** Conjuring Series *****************/
+.Conjuring_Cinematic_Universe{
+background-color: white;
+margin-right: -0.5rem;
+margin-left: -0.5rem;
+height: 500px;
+}
+
+.Conjuring_Cinematic_Universe h1{
+text-align: center;
+color:#212121;
+margin-left: 3rem;
+font-family: 'Caveat', cursive;
+/***NEWLY ADDED **/
+font-family: 'Dosis', sans-serif;
+}
+
+.Conjuring_Content{
+	display: block;
+	text-align: center;
+	color:#212121;
+margin-left: 3rem;
+
+}
+
+.CC1{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-7Qbe895FU3o%2FVdNtUywt0gI%2FAAAAAAAADs4%2F3W3VMu2b4AI%2Fs1600%2FThe%252BConjuring.jpg&f=1&nofb=1");
+	  background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.CC1 a{
+	display: none;
+}
+
+.CC1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.CC1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.CC2{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newdvdreleasedates.com%2Fimages%2Fposters%2Flarge%2Fannabelle-2014-01.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+
+margin-top: -14rem;
+border-radius: 5px;
+}
+.CC2 a{
+	display: none;
+}
+.CC2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.CC2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.CC3{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.movieassets.com%2Fstatic%2Fimages%2Fitems%2Fmovies%2Fposters%2Fb91def8fa5473cdab677ac3a4f69debc.jpg&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.CC3 a{
+	display: none;
+}
+.CC3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.CC3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.CC4{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn8.bigcommerce.com%2Fs-pfbbr25tq3%2Fimages%2Fstencil%2F2000x2000%2Fproducts%2F2868%2F3680%2Fannabellecreation__90529.1507788704.jpg%3Fc%3D2&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.CC4 a{
+	display: none;
+}
+.CC4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.CC4:hover{
+	filter: grayscale(100%);
+	
+}
+
+.CC5{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.movieassets.com%2Fstatic%2Fimages%2Fitems%2Fmovies%2Fposters%2F63fc6413fc089e004876dd88048e032f.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.CC5 a{
+	display: none;
+}
+.CC5:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.CC5:hover{
+	filter: grayscale(100%);
+	
+}
+
+.CC6{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8ePd7HFHVDwgMggeUMREd5To69L.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.CC6 a{
+	display: none;
+}
+.CC6:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.CC6:hover{
+	filter: grayscale(100%);
+	
+}
+
+.CC7{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.flickeringmyth.com%2Fwp-content%2Fuploads%2F2019%2F06%2FAnnabelle-Comes-Home.jpg&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.CC7 a{
+	display: none;
+}
+.CC7:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.CC7:hover{
+	filter: grayscale(100%);
+	
+}
+
+.CC8{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa.ltrbxd.com%2Fresized%2Ffilm-poster%2F3%2F5%2F6%2F7%2F2%2F3%2F356723-the-conjuring-the-devil-made-me-do-it-0-230-0-345-crop.jpg%3Fk%3D2b86861350&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.CC8 a{
+	display: none;
+}
+.CC8:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.CC8:hover{
+	filter: grayscale(100%);
+	
+}
+
+/***************************Marvel Movies ******************************/
+
+.HP_Recommend{
+margin-right: -0.5rem;
+margin-left: -0.5rem;
+height: 500px;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+	color:white;
+	margin-left: 1rem;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.HP1{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fis4.mzstatic.com%2Fimage%2Fthumb%2FPublication3%2Fv4%2Fd2%2Fc0%2F2f%2Fd2c02f2a-a388-3310-95e2-34ab4d65d0cd%2Fsource%2F1400x2040sr.jpg&f=1&nofb=1");
+	  background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.HP1 a{
+	display: none;
+}
+
+.HP1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.HP1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.HP2{
+	background-image: url("https://img1.od-cdn.com/ImageType-100/3450-1/%7BA79BB485-5A7B-4100-8661-3A4647E70BAF%7DImg100.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+
+margin-top: -14rem;
+border-radius: 5px;
+}
+.HP2 a{
+	display: none;
+}
+.HP2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.HP2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.HP3{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6b%2F70%2Fc0%2F6b70c097334b3d8dbcb64e154a5eec58.jpg&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.HP3 a{
+	display: none;
+}
+.HP3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.HP3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.HP4{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.contentreserve.com%2FImageType-400%2F3450-1%2FC5B%2FBC1%2F36%2F%257BC5BBC136-2168-4DBF-838D-D909F3CC0CEC%257DImg400.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.HP4 a{
+	display: none;
+}
+.HP4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.HP4:hover{
+	filter: grayscale(100%);
+	
+}
+
+.HP5{
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.od-cdn.com%2FImageType-100%2F3450-1%2F%257B4C8A3B1A-B3F4-4CB2-A107-FD422F1A5674%257DImg100.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.HP5 a{
+	display: none;
+}
+.HP5:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.HP5:hover{
+	filter: grayscale(100%);
+	
+}
+
+.HP6{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.od-cdn.com%2FImageType-100%2F3450-1%2F%257B361AF83E-0361-4830-8755-DA21E56DC3BF%257DImg100.jpg&f=1&nofb=1");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.HP6 a{
+	display: none;
+}
+.HP6:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.HP6:hover{
+	filter: grayscale(100%);
+	
+}
+
+.HP7{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis3-ssl.mzstatic.com%2Fimage%2Fthumb%2FPublication6%2Fv4%2F69%2F65%2Fa5%2F6965a5b2-77eb-1b21-324b-273560ed1a94%2Fsource%2F1200x630bb.jpg&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.HP7 a{
+	display: none;
+}
+.HP7:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.HP7:hover{
+	filter: grayscale(100%);
+	
+}
+
+.HP8{
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.theposterdb.com%2Fprod%2Fpublic%2Fimages%2Fposters%2Foptimized%2Fmovies%2F2068%2FLjhqyNa7jOvMxQXXlC1XVgGN5Fwmr7dJrkD23AzA.jpg&f=1&nofb=1");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.HP8 a{
+	display: none;
+}
+.HP8:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.HP8:hover{
+	filter: grayscale(100%);
+	
+}
+
+/*************************** Fast saga movies ******************************/
+
+.Fast_Saga_Recommend{
+margin-right: -0.5rem;
+margin-left: -0.5rem;
+height: 500px;
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+	color:white;
+	margin-left: 1rem;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.FF1{
+background-image: url("https://www.themoviedb.org/t/p/original/bvXWpBCxLrNml0oCJory9KaMoBT.jpg");
+	  background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.FF1 a{
+	display: none;
+}
+
+.FF1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.FF1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF2{
+	background-image: url("https://www.themoviedb.org/t/p/original/qlowTCljaoXw0ABJIajDDKh8IlJ.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF2 a{
+	display: none;
+}
+.FF2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.FF2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF3{
+	background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/qEkrl5LlgAEOm5Q7zeVqnxXHhH2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF3 a{
+	display: none;
+}
+.FF3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.FF3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF4{
+background-image: url("https://www.themoviedb.org/t/p/original/ivmPPQyNbmHbW9LbNvyMzcom62S.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF4 a{
+	display: none;
+}
+.FF4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.FF4:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF5{
+	background-image: url("https://www.themoviedb.org/t/p/original/6HztVBrJfnhpConAG438qeIp1WT.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF5 a{
+	display: none;
+}
+.FF5:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.FF5:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF6{
+background-image: url("https://www.themoviedb.org/t/p/original/1qBptGt6mP4u5BpMIWhpcs8meNc.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF6 a{
+	display: none;
+}
+.FF6:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.FF6:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF7{
+background-image: url("https://www.themoviedb.org/t/p/original/uM1QPWNkAeegEXP3YU6j2UXjr6n.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF7 a{
+	display: none;
+}
+.FF7:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.FF7:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF8{
+background-image: url("https://www.themoviedb.org/t/p/original/d9AkTDeEhlWUwNgm9Fi0S1C3QVG.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF8 a{
+	display: none;
+}
+.FF8:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.FF8:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF_HS{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF_HS a{
+	display: none;
+}
+.FF_HS:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.FF_HS:hover{
+	filter: grayscale(100%);
+	
+}
+
+.FF9{
+background-image: url("https://www.themoviedb.org/t/p/original/gwPAfjqVJh8tb616CRKWQriTY4N.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.FF9 a{
+	display: none;
+}
+.FF9:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+}
+.FF9:hover{
+	filter: grayscale(100%);
+	
+}
+
+/**** Godzilla Series ***/
+.Godzill_Recommend{
+margin-right: -0.5rem;
+margin-left: -0.5rem;
+height: 500px;
+}
+
+.Godzill_Recommend h1{
+	display: block;
+	text-align: center;
+	color:white;
+	margin-left: 1rem;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.GZ1{
+background-image: url("https://www.themoviedb.org/t/p/original/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg");
+	  background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.GZ1 a{
+	display: none;
+}
+
+.GZ1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.GZ1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.GZ2{
+	background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+
+margin-top: -14rem;
+border-radius: 5px;
+}
+.GZ2 a{
+	display: none;
+}
+.GZ2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.GZ2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.GZ3{
+	background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.GZ3 a{
+	display: none;
+}
+.GZ3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.GZ3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.GZ4{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.GZ4 a{
+	display: none;
+}
+.GZ4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.GZ4:hover{
+	filter: grayscale(100%);
+	
+}
+
+/**** The Purge Series ***/
+.Purge_Series_Recommended{
+margin-right: -0.5rem;
+margin-left: -0.5rem;
+height: 500px;
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+	color:white;
+	margin-left: 1rem;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.P1{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/nm5oRU0k7aUnDG9fbuj9B3ZkDdJ.jpg");
+	  background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.P1 a{
+	display: none;
+}
+
+.P1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.P1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.P2{
+	background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/pN2f95osy5upkenxrKvOPV5jE75.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+
+margin-top: -14rem;
+border-radius: 5px;
+}
+.P2 a{
+	display: none;
+}
+.P2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.P2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.P3{
+	background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/iP3XwuafHC1L2rZHGoejuaTsssT.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.P3 a{
+	display: none;
+}
+.P3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.P3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.P4{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/Srn5JV3sJMa3KcPS9IdZzIVBAa.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.P4 a{
+	display: none;
+}
+.P4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.P4:hover{
+	filter: grayscale(100%);
+	
+}
+
+.P5{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.P5 a{
+	display: none;
+}
+.P5:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.P5:hover{
+	filter: grayscale(100%);
+	
+}
+
+.P6{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/hpYAhOJ8EdB6s9LKMBABmvrN2KV.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.P6 a{
+	display: none;
+}
+.P6:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.P6:hover{
+	filter: grayscale(100%);
+	
+}
+
+/**** Insidious Series ***/
+.Insidious_Recommended{
+margin-right: -0.5rem;
+margin-left: -0.5rem;
+height: 500px;
+}
+
+.Insidious_Recommended h1{
+	display: block;
+	text-align: center;
+	color:white;
+	margin-left: 1rem;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.I1{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/9w2UVajcXssgCVWV4rEtmuadpb9.jpg");
+	  background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+border-radius: 5px;
+}
+
+.I1 a{
+	display: none;
+}
+
+.I1:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.I1:hover{
+	filter: grayscale(100%);
+	
+}
+
+.I2{
+	background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+
+margin-top: -14rem;
+border-radius: 5px;
+}
+.I2 a{
+	display: none;
+}
+.I2:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.I2:hover{
+	filter: grayscale(100%);
+	
+}
+
+.I3{
+	background-image: url("https://www.themoviedb.org/t/p/original/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.I3 a{
+	display: none;
+}
+.I3:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.I3:hover{
+	filter: grayscale(100%);
+	
+}
+
+.I4{
+background-image: url("https://www.themoviedb.org/t/p/w220_and_h330_face/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+width:9rem;
+height: 14rem;
+margin-top: -14rem;
+border-radius: 5px;
+}
+.I4 a{
+	display: none;
+}
+.I4:hover a{
+	display: block;
+	color:white;
+	position: absolute;
+	top:4rem;
+	left:2.5rem;
+	font-size:4rem;
+
+
+}
+.I4:hover{
+	filter: grayscale(100%);
+	
+}
+
+
+/****************************************/
+
+
 /** Footer ***/
 
 footer{
@@ -1002,6 +2415,10 @@ margin-top:-25rem;
         margin-left:0;
 }
 
+.Movie_1:hover a,.Movie_2:hover a,.Movie_3:hover a,.Movie_4:hover a,.Movie_5:hover a,.Movie_6:hover a,.Movie_7:hover a{
+		margin: -0.5rem;
+}
+
 /*** First two shows **/
 	.Movie_1{
 		margin-top: 0rem;
@@ -1031,10 +2448,10 @@ margin-top:-11rem;
 	margin-top: 5rem;
 	margin-left:-0.5rem;
 	margin-right:-0.5rem;
-	height: 1150px;
+	height: 1200px;
 }
 
-.Marvel_Cinema h1{
+.Marvel_Cinema{
 	display: block;
 	text-align: center;
 }
@@ -1043,6 +2460,10 @@ margin-top:-11rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
+}
+
+.Movie_marvel_1:hover a,.Movie_marvel_2:hover a,.Movie_marvel_3:hover a,.Movie_marvel_4:hover a,.Movie_marvel_5:hover a,.Movie_marvel_6:hover a,.Movie_marvel_7:hover a,.Movie_marvel_8:hover a,.Movie_marvel_9:hover a{
+		margin: -0.5rem;
 }
 
 /*** First two shows **/
@@ -1074,7 +2495,7 @@ margin-top:-11rem;
 .TV_Shows_Arrival{
 	display: block;
 	text-align: center;
-	margin-top: 5rem;
+	margin-top: 0rem;
 }
 	.TV_Shows_Content{
 		margin-left: 1.5rem;
@@ -1083,9 +2504,13 @@ margin-top:-11rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
-
-
 	}
+
+
+	.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+		margin: -0.5rem;
+}
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -1108,6 +2533,374 @@ margin-top:1rem;
 margin-left: 10rem;
 margin-top:-11rem;
 }
+
+/****************************/
+/******Love is in the air Movie***/
+.love_story{
+	margin-top: 1rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	color: black;
+	background-color: white;
+}
+
+.love_story h1{
+	display: block;
+	text-align: center;
+}
+
+.L1,.L2,.L3,.L4,.L5,.L6,.L7{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.L1:hover a,.L2:hover a,.L3:hover a,.L4:hover a,.L5:hover a,.L6:hover a,.L7:hover a{
+		margin: -0.5rem;
+}
+
+/*** First two shows **/
+	.L1{
+		margin-top: 0rem;
+		margin-left: 2.5rem;
+	}
+
+	.L2{
+		margin-left: 11.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.L3,.L5,.L7{
+margin-left: 2.5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.L4,.L6{
+
+margin-left: 11.5rem;
+margin-top:-11rem;
+}
+
+/******Conjuring series***/
+.Conjuring_Cinematic_Universe{
+	margin-top:-1.5rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	color: black;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F4%2F7%2F0%2F185764.jpg&f=1&nofb=1");
+	background-size: cover;
+	height: 930px;
+}
+
+.Conjuring_Cinematic_Universe h1{
+	display: block;
+	text-align: center;
+	margin-left:0.5rem;
+	color: white;
+
+}
+
+.Conjuring_Content{
+	margin-left: 1rem;
+}
+
+.CC1,.CC2,.CC3,.CC4,.CC5,.CC6,.CC7,.CC8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.CC1:hover a,.CC2:hover a,.CC3:hover a,.CC4:hover a,.CC5:hover a,.CC6:hover a,.CC7:hover a,.CC8:hover a{
+		margin: -0.5rem;
+}
+
+/*** First two shows **/
+	.CC1{
+		margin-top: 0rem;
+		margin-left: 2.5rem;
+	}
+
+	.CC2{
+		margin-left: 11.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.CC3,.CC5,.CC7{
+margin-left: 2.5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.CC4,.CC6,.CC8{
+
+margin-left: 11.5rem;
+margin-top:-11rem;
+}
+
+
+/****** Harry Potter Series *****/
+.HP_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 900px;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.HP_Content{
+	margin-left:1rem;
+}
+
+.HP1,.HP2,.HP3,.HP4,.HP5,.HP6,.HP7,.HP8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.HP1:hover a,.HP2:hover a,.HP3:hover a,.HP4:hover a,.HP5:hover a,.HP6:hover a,.HP7:hover a,.HP8:hover a{
+		margin: -0.5rem;
+}
+
+/*** First two shows **/
+	.HP1{
+		margin-top: 0rem;
+		margin-left: 2.5rem;
+	}
+
+	.HP2{
+		margin-left: 11.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.HP3,.HP5,.HP7{
+margin-left: 2.5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.HP4,.HP6,.HP8{
+
+margin-left: 11.5rem;
+margin-top:-11rem;
+}
+
+/****** Fast saga movie *****/
+.Fast_Saga_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 1100px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Fast_Saga_Content{
+	margin-left:1rem;
+}
+
+.FF1,.FF2,.FF3,.FF4,.FF5,.FF6,.FF7,.FF8,.FF9,.FF_HS{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.FF1:hover a,.FF2:hover a,.FF3:hover a,.FF4:hover a,.FF5:hover a,.FF6:hover a,.FF7:hover a,.FF8:hover a,.FF9:hover a,.FF_HS:hover a{
+        margin-left:-0.5rem;
+}
+
+
+
+/*** First two shows **/
+	.FF1{
+		margin-top: 0rem;
+		margin-left: 2.5rem;
+	}
+
+	.FF2{
+		margin-left: 11.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.FF3,.FF5,.FF7,.FF_HS{
+margin-left: 2.5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.FF4,.FF6,.FF8,.FF9{
+
+margin-left: 11.5rem;
+margin-top:-11rem;
+}
+
+/****** Godzilla movie series *****/
+.Godzill_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 530px;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Fgodzilla_bGtqamqUmZqaraWkpJRmaWpnrWdlaW0.jpg&f=1&nofb=1");
+	background-size: cover;
+}
+
+.Godzill_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Godzilla_Content{
+	margin-left:1rem;
+}
+
+.GZ1,.GZ2,.GZ3,.GZ4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.GZ1:hover a,.GZ2:hover a,.GZ3:hover a,.GZ4:hover a{
+        margin-left:-0.5rem;
+}
+
+
+/*** First two shows **/
+	.GZ1{
+		margin-top: 0rem;
+		margin-left: 2.5rem;
+	}
+
+	.GZ2{
+		margin-left: 11.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.GZ3{
+margin-left: 2.5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.GZ4{
+margin-left: 11.5rem;
+margin-top:-11rem;
+}
+
+/****** The Purge Series *****/
+.Purge_Series_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 730px;
+	background-image: url("https://images.alphacoders.com/689/thumb-1920-689146.jpg");
+	background-size: cover;
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+	color:black;
+	font-family: 'Dosis', sans-serif;
+}
+
+.Purge_Series_Content{
+	margin-left:1rem;
+}
+
+.P1,.P2,.P3,.P4,.P5,.P6{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.P1:hover a,.P2:hover a,.P3:hover a,.P4:hover a,.P5:hover a,.P6:hover a{
+        margin-left:-0.5rem;
+
+}
+
+/*** First two shows **/
+	.P1{
+		margin-top: 0rem;
+		margin-left: 2.5rem;
+	}
+
+	.P2{
+		margin-left: 11.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.P3,.P5{
+margin-left: 2.5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.P4,.P6{
+
+margin-left: 11.5rem;
+margin-top:-11rem;
+}
+
+/****** Insidious series *****/
+.Insidious_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 530px;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F474x%2F53%2F4c%2F1f%2F534c1f6be2d137b0c5141a340b639092.jpg&f=1&nofb=1");
+	background-size: cover;
+}
+
+.Insidious_Recommended h1{
+	display: block;
+	text-align: center;
+}
+
+.Insidious_Content{
+	margin-left:1rem;
+}
+
+.I1,.I2,.I3,.I4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.I1:hover a,.I2:hover a,.I3:hover a,.I4:hover a{
+        margin-left:-0.5rem;
+}
+
+/*** First two shows **/
+	.I1{
+		margin-top: 0rem;
+		margin-left: 2.5rem;
+	}
+
+	.I2{
+		margin-left: 11.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.I3{
+margin-left: 2.5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.I4{
+margin-left: 11.5rem;
+margin-top:-11rem;
+}
+
 
 
 }
@@ -1151,6 +2944,12 @@ margin-top:-25rem;
         margin-left:0;
 }
 
+.Movie_1:hover a,.Movie_2:hover a,.Movie_3:hover a,.Movie_4:hover a,.Movie_5:hover a,.Movie_6:hover a,.Movie_7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
 /*** First two shows **/
 	.Movie_1{
 		margin-top: 0rem;
@@ -1183,7 +2982,7 @@ margin-top:-11rem;
 	height: 1150px;
 }
 
-.Marvel_Cinema h1{
+.Marvel_Cinema{
 	display: block;
 	text-align: center;
 }
@@ -1193,6 +2992,12 @@ margin-top:-11rem;
         height:11rem;
         margin-left:0;
 }
+
+.Movie_marvel_1:hover a,.Movie_marvel_2:hover a,.Movie_marvel_3:hover a,.Movie_marvel_4:hover a,.Movie_marvel_5:hover a,.Movie_marvel_6:hover a,.Movie_marvel_7:hover a,.Movie_marvel_8:hover a,.Movie_marvel_9:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
 
 /*** First two shows **/
 	.Movie_marvel_1{
@@ -1235,6 +3040,13 @@ margin-top:-11rem;
 
 
 	}
+
+	.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -1255,6 +3067,370 @@ margin-top:1rem;
 .TV_Shows_4,.TV_Shows_6,.TV_Shows_8,.TV_Shows_10,.TV_Shows_12{
 
 margin-left: 12rem;
+margin-top:-11rem;
+}
+
+/********* Love Story ***********/
+.love_story{
+	display: block;
+	text-align: center;
+	margin-top: 1rem;
+	margin-left: 1.5rem;
+	color:white;
+
+	}
+
+	.L1,.L2,.L3,.L4,.L5,.L6,.L7{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+
+	}
+
+	.L1:hover a,.L2:hover a,.L3:hover a,.L4:hover a,.L5:hover a.L6:hover a,.L7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	/*** First two shows **/
+	.L1{
+		margin-top: 0rem;
+		margin-left: 3rem;
+	}
+
+	.L2{
+		margin-left: 12rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.L3,.L5,.L7{
+margin-left: 3rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.L4,.L6{
+
+margin-left: 12rem;
+margin-top:-11rem;
+}
+
+/****** Conjuring Series***/
+.Conjuring_Cinematic_Universe{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 930px;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F4%2F7%2F0%2F185764.jpg&f=1&nofb=1");
+	background-size: cover;
+}
+
+.Conjuring_Cinematic_Universe h1{
+	display: block;
+	text-align: center;
+	color:white;
+}
+
+.Conjuring_Content{
+margin-left:0.5rem; 
+}
+
+.CC1,.CC2,.CC3,.CC4,.CC5,.CC6,.CC7,.CC8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.CC1:hover a,.CC2:hover a,.CC3:hover a,.CC4:hover a,.CC5:hover a,.CC6:hover a,.CC7:hover a,.CC8:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+/*** First two shows **/
+	.CC1{
+		margin-top: 0rem;
+		margin-left: 5rem;
+	}
+
+	.CC2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.CC3,.CC5,.CC7{
+margin-left: 5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.CC4,.CC6,.CC8{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+/****** Harry potter series ***/
+.HP_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 1150px;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.HP_Content{
+	margin-left:0.5rem; 
+}
+
+.HP1,.HP2,.HP3,.HP4,.HP5,.HP6,.HP7,.HP8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.HP1:hover a,.HP2:hover a,.HP3:hover a,.HP4:hover a,.HP5:hover a,.HP6:hover a,.HP7:hover a,.HP8:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+/*** First two shows **/
+	.HP1{
+		margin-top: 0rem;
+		margin-left: 5rem;
+	}
+
+	.HP2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.HP3,.HP5,.HP7{
+margin-left: 5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.HP4,.HP6,.HP8{
+
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+/******Fast saga movie***/
+.Fast_Saga_Recommend{
+	margin-top: -13rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 1150px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Fast_Saga_Content{
+	margin-left:0.5rem; 
+}
+
+
+.FF1,.FF2,.FF3,.FF4,.FF5,.FF6,.FF7,.FF8,.FF9,.FF_HS{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.FF1:hover a,.FF2:hover a,.FF3:hover a,.FF4:hover a,.FF5:hover a,.FF6:hover a,.FF7:hover a,.FF8:hover a,.FF9:hover a,.FF_HS:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+/*** First two shows **/
+	.FF1{
+		margin-top: 0rem;
+		margin-left: 5rem;
+	}
+
+	.FF2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.FF3,.FF5,.FF7,.FF_HS{
+margin-left: 5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.FF4,.FF6,.FF8,.FF9{
+
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+/****** Godzilla movie series ***/
+.Godzill_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 510px;
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Fgodzilla_bGtqamqUmZqaraWkpJRmaWpnrWdlaW0.jpg&f=1&nofb=1");
+	background-size: cover;
+}
+
+.Godzill_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Godzilla_Content{
+	margin-left:0.5rem; 
+}
+
+
+.GZ1,.GZ2,.GZ3,.GZ4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.GZ1:hover a,.GZ2:hover a,.GZ3:hover a,.GZ4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+	.GZ1{
+		margin-top: 0rem;
+		margin-left: 5rem;
+	}
+
+	.GZ2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+
+	.GZ3{
+margin-left: 5rem;
+margin-top:1rem;
+}
+
+.GZ4{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+/****** The purge series***/
+.Purge_Series_Recommended{
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 750px;
+background-image: url("https://images.alphacoders.com/689/thumb-1920-689146.jpg");
+	background-size: cover;
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+
+}
+
+.Purge_Series_Content{
+	margin-left:0.5rem; 
+}
+
+
+.P1,.P2,.P3,.P4,.P5,.P6{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.P1:hover a,.P2:hover a,.P3:hover a,.P4:hover a,.P5:hover a,.P6:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+/*** First two shows **/
+	.P1{
+		margin-top: 0rem;
+		margin-left: 5rem;
+	}
+
+	.P2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.P3,.P5{
+margin-left: 5rem;
+margin-top:1rem;
+}
+
+  /**All Even Shows**/
+.P4,.P6{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+
+/****** Insidious Series ***/
+.Insidious_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 510px;
+background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Finsidious_the_last_key_2018_5k-750x1334.jpg&f=1&nofb=1");
+	background-size: cover;
+}
+
+.Insidious_Recommended h1{
+	display: block;
+	text-align: center;
+}
+
+.Insidious_Content{
+	margin-left:0.5rem; 
+}
+
+
+.I1,.I2,.I3,.I4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.I1:hover a,.I2:hover a,.I3:hover a,.I4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	.I1{
+		margin-top: 0rem;
+		margin-left: 5rem;
+	}
+
+	.I2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+
+	.I3{
+margin-left: 5rem;
+margin-top:1rem;
+}
+
+.I4{
+margin-left: 13.5rem;
 margin-top:-11rem;
 }
 
@@ -1300,6 +3476,12 @@ font-size: 3rem;
         margin-left:0;
 }
 
+.Movie_1:hover a,.Movie_2:hover a,.Movie_3:hover a,.Movie_4:hover a,.Movie_5:hover a,.Movie_6:hover a,.Movie_7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
 /*** First two shows **/
 	.Movie_1{
 		margin-top: 0rem;
@@ -1331,7 +3513,7 @@ margin-top:-11rem;
 	height: 1150px;
 }
 
-.Marvel_Cinema h1{
+.Marvel_Cinema{
 	display: block;
 	text-align: center;
 }
@@ -1341,6 +3523,12 @@ margin-top:-11rem;
         height:11rem;
         margin-left:0;
 }
+
+.Movie_marvel_1:hover a,.Movie_marvel_2:hover a,.Movie_marvel_3:hover a,.Movie_marvel_4:hover a,.Movie_marvel_5:hover a,.Movie_marvel_6:hover a,.Movie_marvel_7:hover a,.Movie_marvel_8:hover a,.Movie_marvel_9:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
 
 /*** First two shows **/
 	.Movie_marvel_1{
@@ -1365,7 +3553,7 @@ margin-left: 4.5rem;
 margin-top:-11rem;
 }
 
-	/*********/
+	/*****TV Shows****/
 
 	.TV_Shows_Arrival{
 	display: block;
@@ -1382,6 +3570,12 @@ margin-top:-11rem;
 
 
 	}
+
+	.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -1406,7 +3600,306 @@ margin-top:-11rem;
 }
 
 
+	/************** Love Story*****/
+
+	.love_story{
+	display: block;
+	text-align: center;
+	margin-top: 5rem;
+	margin-left: 1.5rem;
+	color:white;
 }
+	
+	.L1,.L2,.L3,.L4,.L5,.L6,.L7{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0rem;
+
+
+	}
+
+	.L1:hover a,.L2:hover a,.L3:hover a,.L4:hover a,.L5:hover a.L6:hover a,.L7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+	/*** First two shows **/
+	.L1{
+		margin-top: 0rem;
+		margin-left: 3rem;
+	}
+
+	.L2{
+		margin-left: 12rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.L3,.L5,.L7{
+margin-left: 3rem;
+margin-top:1rem;
+}
+
+/** All Even Shows **/
+.L4,.L6{
+margin-left: 12rem;
+margin-top:-11rem;
+}
+
+/***** Harry Potter series ***/
+.HP_Recommend{
+	margin-top: 5rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 1150px;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.HP1,.HP2,.HP3,.HP4,.HP5,.HP6,.HP7,.HP8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.HP1:hover a,.HP2:hover a,.HP3:hover a,.HP4:hover a,.HP5:hover a,.HP6:hover a,.HP7:hover a,.HP8:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+/*** First two shows **/
+	.HP1{
+		margin-top: 0rem;
+		margin-left: 4.5rem;
+	}
+
+	.HP2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.HP3,.HP5,.HP7{
+margin-top:1rem;
+margin-left: 4.5rem;
+}
+
+  /**All Even Shows**/
+.HP4,.HP6,.HP8{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+/***** Fast saga movies ***/
+.Fast_Saga_Recommend{
+	margin-top: -10rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 1150px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+}
+.Fast_Saga_Content{
+	margin-left:1rem;
+}
+
+
+.FF1,.FF2,.FF3,.FF4,.FF5,.FF6,.FF7,.FF8,.FF9,.FF_HS{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.FF1:hover a,.FF2:hover a,.FF3:hover a,.FF4:hover a,.FF5:hover a,.FF6:hover a,.FF7:hover a,.FF8:hover a,.FF9:hover a,.FF_HS:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+/*** First two shows **/
+	.FF1{
+		margin-top: 0rem;
+		margin-left: 4.5rem;
+	}
+
+	.FF2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.FF3,.FF5,.FF7,.FF_HS{
+margin-top:1rem;
+margin-left: 4.5rem;
+}
+
+  /**All Even Shows**/
+.FF4,.FF6,.FF8,.FF9{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+/***** Godzilla series movies ***/
+.Godzill_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 550px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Godzill_Recommend h1{
+	display: block;
+	text-align: center;
+}
+.Godzilla_Content{
+	margin-left:1rem;
+}
+
+
+.GZ1,.GZ2,.GZ3,.GZ4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.GZ1:hover a,.GZ2:hover a,.GZ3:hover a,.GZ4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	.GZ1{
+		margin-top: 0rem;
+		margin-left: 4.5rem;
+	}
+
+	.GZ2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+
+	.GZ3{
+margin-top:1rem;
+margin-left: 4.5rem;
+}
+
+.GZ4{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+/***** The purge series ***/
+.Purge_Series_Recommended{
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 750px;
+background-image: url("https://images.alphacoders.com/689/thumb-1920-689146.jpg");
+	background-size: cover;
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+}
+.Purge_Series_Content{
+	margin-left:1rem;
+}
+
+
+.P1,.P2,.P3,.P4,.P5,.P6{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.P1:hover a,.P2:hover a,.P3:hover a,.P4:hover a,.P5:hover a,.P6:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+/*** First two shows **/
+	.P1{
+		margin-top: 0rem;
+		margin-left: 4.5rem;
+	}
+
+	.P2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+/*** All odd shows **/
+	.P3,.P5{
+margin-top:1rem;
+margin-left: 4.5rem;
+}
+
+  /**All Even Shows**/
+.P4,.P6{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+
+/***** Insidious Series ***/
+.Insidious_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 550px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Insidious_Recommended h1{
+	display: block;
+	text-align: center;
+}
+.Insidious_Content{
+	margin-left:1rem;
+}
+
+
+.I1,.I2,.I3,.I4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.I1:hover a,.I2:hover a,.I3:hover a,.I4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+	.I1{
+		margin-top: 0rem;
+		margin-left: 4.5rem;
+	}
+
+	.I2{
+		margin-left: 13.5rem;
+		margin-top:-11rem;
+	}
+
+	.I3{
+margin-top:1rem;
+margin-left: 4.5rem;
+}
+
+.I4{
+margin-left: 13.5rem;
+margin-top:-11rem;
+}
+
+
+}
+
 
 @media only screen and (min-width: 600px){
 	.heading{
@@ -1443,6 +3936,11 @@ font-size: 4rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
+}
+
+.Movie_1:hover a,.Movie_2:hover a,.Movie_3:hover a,.Movie_4:hover a,.Movie_5:hover a,.Movie_6:hover a,.Movie_7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
 }
 
 /*** First two shows **/
@@ -1484,10 +3982,10 @@ margin-left: 19rem;
 	margin-top: 5rem;
 	margin-left:-0.5rem;
 	margin-right:-0.5rem;
-	height: 720px;
+	height: 750px;
 }
 
-.Marvel_Cinema h1{
+.Marvel_Cinema {
 	display: block;
 	text-align: center;
 }
@@ -1496,6 +3994,11 @@ margin-left: 19rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
+}
+
+.Movie_marvel_1:hover a,.Movie_marvel_2:hover a,.Movie_marvel_3:hover a,.Movie_marvel_4:hover a,.Movie_marvel_5:hover a,.Movie_marvel_6:hover a,.Movie_marvel_7:hover a,.Movie_marvel_8:hover a,.Movie_marvel_9:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
 }
 
 /*** First three shows **/
@@ -1546,6 +4049,12 @@ margin-left: 19rem;
         height:11rem;
         margin-left:0;
 	}
+
+	.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -1578,10 +4087,408 @@ margin-left: 19rem;
 		margin-top: -11rem;
 	}
 
+/********* Love Story *************/
 
+		.love_story{
+	display: block;
+	text-align: center;
+	margin-top: 5rem;
+	margin-left: 4.5rem;
+}
+	
+	.L1,.L2,.L3,.L4,.L5,.L6,.L7{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+	}
 
+		.L1:hover a,.L2:hover a,.L3:hover a,.L4:hover a,.L5:hover a.L6:hover a,.L7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	/*** First two shows **/
+	.L1{
+		margin-top: 0rem;
+		margin-left: 1.5rem;
+	}
+
+	.L2{
+		margin-left: 10.5rem;
+		margin-top:-11rem;
+	}
+
+	.L3{
+		margin-left: 19.5rem;
+		margin-top: -11rem;
+	}
+
+/*** All three shows **/
+.L4,.L7{
+	margin-top: 1rem;
+	margin-left: 1.5rem;
+}
+
+.L5{
+	margin-left: 10.5rem;
+	margin-top:-11rem;
+}
+
+.L6{
+		margin-left: 19.5rem;
+		margin-top: -11rem;
+	}
+
+/****** Conjuring Series ***/
+.Conjuring_Cinematic_Universe{
+	margin-top: 5rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 720px;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F4%2F7%2F0%2F185764.jpg&f=1&nofb=1");
+	background-size: cover;
+}
+
+.Conjuring_Cinematic_Universe h1{
+	display: block;
+	text-align: center;
 	
 }
+
+.Conjuring_Content{
+	margin-left:1rem;
+}
+.CC1,.CC2,.CC3,.CC4,.CC5,.CC6,.CC7,.CC8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.CC1:hover a,.CC2:hover a,.CC3:hover a,.CC4:hover a,.CC5:hover a,.CC6:hover a,.CC7:hover a,.CC8:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+/*** First three shows **/
+	.CC1{
+		margin-top: 0rem;
+		margin-left: 5.5rem;
+	}
+
+	.CC2{
+		margin-left: 14.5rem;
+		margin-top:-11rem;
+	}
+
+	.CC3{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+	/*** All three shows **/
+.CC4,.CC7{
+	margin-top: 1rem;
+	margin-left: 5.5rem;
+}
+
+.CC5,.CC8{
+	margin-left: 14.5rem;
+	margin-top:-11rem;
+}
+
+.CC6{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+
+/****** harry potter series***/
+.HP_Recommend{
+	margin-top: 5rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 720px;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.HP_Content{
+	margin-left: 1rem;
+}
+.HP1,.HP2,.HP3,.HP4,.HP5,.HP6,.HP7,.HP8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.HP1:hover a,.HP2:hover a,.HP3:hover a,.HP4:hover a,.HP5:hover a,.HP6:hover a,.HP7:hover a,.HP8:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+/*** First three shows **/
+	.HP1{
+		margin-top: 0rem;
+		margin-left: 5.5rem;
+	}
+
+	.HP2{
+		margin-left: 14.5rem;
+		margin-top:-11rem;
+	}
+
+	.HP3{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+	/*** All three shows **/
+.HP4,.HP7{
+	margin-top: 1rem;
+	margin-left: 5.5rem;
+}
+
+.HP5,.HP8{
+	margin-left: 14.5rem;
+	margin-top:-11rem;
+}
+
+.HP6{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+/****** Fast saga Movie***/
+.Fast_Saga_Recommend{
+	margin-top: 5rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 900px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Fast_Saga_Content{
+	margin-left: 1rem;
+}
+.FF1,.FF2,.FF3,.FF4,.FF5,.FF6,.FF7,.FF8,.FF9,.FF_HS{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.FF1:hover a,.FF2:hover a,.FF3:hover a,.FF4:hover a,.FF5:hover a,.FF6:hover a,.FF7:hover a,.FF8:hover a,.FF9:hover a,.FF_HS:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+/*** First three shows **/
+	.FF1{
+		margin-top: 0rem;
+		margin-left: 5.5rem;
+	}
+
+	.FF2{
+		margin-left: 14.5rem;
+		margin-top:-11rem;
+	}
+
+	.FF3{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+	/*** All three shows **/
+.FF4,.FF7{
+	margin-top: 1rem;
+	margin-left: 5.5rem;
+}
+
+.FF5,.FF8{
+	margin-left: 14.5rem;
+	margin-top:-11rem;
+}
+
+.FF6,.FF_HS{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+	.FF9{
+		margin-top: 1rem;
+		margin-left: 14.5rem;
+	}
+
+/****** Godzilla Series Movie***/
+.Godzill_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 550px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Godzill_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Godzilla_Content{
+	margin-left: 1rem;
+}
+.GZ1,.GZ2,.GZ3,.GZ4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.GZ1:hover a,.GZ2:hover a,.GZ3:hover a,.GZ4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+	.GZ1{
+		margin-top: 0rem;
+		margin-left: 5.5rem;
+	}
+
+	.GZ2{
+		margin-left: 14.5rem;
+		margin-top:-11rem;
+	}
+
+	.GZ3{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+.GZ4{
+	margin-top: 1rem;
+	margin-left: 14.5rem;
+}
+
+/****** The Purge Series ***/
+.Purge_Series_Recommended{
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 600px;
+background-image: url("https://images.alphacoders.com/689/thumb-1920-689146.jpg");
+	background-size: cover;
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+}
+
+.Purge_Series_Content{
+	margin-left: 1rem;
+}
+.P1,.P2,.P3,.P4,.P5,.P6{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.P1:hover a,.P2:hover a,.P3:hover a,.P4:hover a,.P5:hover a,.P6:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+/*** First three shows **/
+	.P1{
+		margin-top: 0rem;
+		margin-left: 5.5rem;
+	}
+
+	.P2{
+		margin-left: 14.5rem;
+		margin-top:-11rem;
+	}
+
+	.P3{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+	/*** All three shows **/
+.P4{
+	margin-top: 1rem;
+	margin-left: 5.5rem;
+}
+
+.P5{
+	margin-left: 14.5rem;
+	margin-top:-11rem;
+}
+
+.P6{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+/****** Insidious Series ***/
+.Insidious_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 550px;
+	background-image: url("https://www.hdwallpapers.in/thumbs/2018/insidious_the_last_key_2018_5k-t2.jpg");
+	background-size: cover;
+}
+
+.Insidious_Recommended h1{
+	display: block;
+	text-align: center;
+}
+
+.Insidious_Content{
+	margin-left: 1rem;
+}
+.I1,.I2,.I3,.I4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.I1:hover a,.I2:hover a,.I3:hover a,.I4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	.I1{
+		margin-top: 0rem;
+		margin-left: 5.5rem;
+	}
+
+	.I2{
+		margin-left: 14.5rem;
+		margin-top:-11rem;
+	}
+
+	.I3{
+		margin-left: 23.5rem;
+		margin-top: -11rem;
+	}
+
+.I4{
+	margin-top: 1rem;
+	margin-left: 14.5rem;
+}
+
+
+}
+
 
 @media only screen and (min-width: 720px){
 .Top_navbar a{
@@ -1596,6 +4503,12 @@ margin-left: 19rem;
         height:11rem;
         margin-left:0;
 	}
+
+	.Movie_1:hover a,.Movie_2:hover a,.Movie_3:hover a,.Movie_4:hover a,.Movie_5:hover a,.Movie_6:hover a,.Movie_7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
 	/*** First two shows **/
 	.Movie_1{
 		margin-top: 0rem;
@@ -1642,7 +4555,7 @@ margin-left: 19rem;
 	height: 720px;
 }
 
-.Marvel_Cinema h1{
+.Marvel_Cinema{
 	display: block;
 	text-align: center;
 }
@@ -1651,6 +4564,11 @@ margin-left: 19rem;
 		width:7.5rem;
         height:11rem;
         margin-left:0;
+}
+
+.Movie_marvel_1:hover a,.Movie_marvel_2:hover a,.Movie_marvel_3:hover a,.Movie_marvel_4:hover a,.Movie_marvel_5:hover a,.Movie_marvel_6:hover a,.Movie_marvel_7:hover a,.Movie_marvel_8:hover a,.Movie_marvel_9:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
 }
 
 	/*** First two shows **/
@@ -1693,7 +4611,10 @@ margin-left: 6rem;
 		margin-top: -11rem;
 	}
 
-
+.More_Marvel{
+margin-top: -1rem;
+margin-left: 3rem;
+}
 	/***********************************/
 
 
@@ -1701,7 +4622,7 @@ margin-left: 6rem;
 		.TV_Shows_Arrival{
 	display: block;
 	text-align: center;
-	margin-top: 5rem;
+	margin-top: 0rem;
 }
 	.TV_Shows_Content{
 		margin-left: 4rem;
@@ -1713,6 +4634,13 @@ margin-left: 6rem;
 
 
 	}
+
+		.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
 	/*** First two shows **/
 	.TV_Shows_1{
 		margin-top: 0rem;
@@ -1752,6 +4680,444 @@ margin-left: 6rem;
 		margin-left: 28rem;
 		margin-top: -11rem;
 	}
+
+/************* Love Story **********************/
+
+
+
+		.love_story{
+	display: block;
+	text-align: center;
+	margin-top: 0rem;
+}
+
+	.L1,.L2,.L3,.L4,.L5,.L6,.L7{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+	}
+
+		.L1:hover a,.L2:hover a,.L3:hover a,.L4:hover a,.L5:hover a.L6:hover a,.L7:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	/*** First two shows **/
+	.L1{
+		margin-top: 0rem;
+		margin-left: 1rem;
+	}
+
+	.L2{
+		margin-left: 10rem;
+		margin-top:-11rem;
+	}
+
+	.L3{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+	.L4{
+		margin-left: 28rem;
+		margin-top: -11rem;
+	}
+/*** All three shows **/
+.L5{
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+
+.L6{
+	margin-left: 10rem;
+	margin-top:-11rem;
+}
+
+.L7{
+		margin-left: 19rem;
+		margin-top: -11rem;
+	}
+
+	/**
+	.TV_Shows_8,.TV_Shows_12{
+		margin-left: 28rem;
+		margin-top: -11rem;
+	}**/
+
+/********** Conjuring Series *********/
+.Conjuring_Cinematic_Universe{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 550px;
+	background: url("https://wallpapertag.com/wallpaper/full/7/7/1/936243-scary-background-images-1920x1080-ipad-retina.jpg");
+	background-size: cover;
+}
+
+.Conjuring_Cinematic_Universe h1{
+	display: block;
+	text-align: center;
+	color: white;
+
+}
+
+.Conjuring_Content{
+	margin-left:0rem;
+}
+
+.CC1,.CC2,.CC3,.CC4,.CC5,.CC6,.CC7,.CC8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.CC1:hover a,.CC2:hover a,.CC3:hover a,.CC4:hover a,.CC5:hover a,.CC6:hover a,.CC7:hover a,.CC8:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	/*** First two shows **/
+	.CC1{
+		margin-top: 0rem;
+		margin-left: 6rem;
+	}
+
+	.CC2{
+		margin-left: 15rem;
+		margin-top:-11rem;
+	}
+
+	.CC3{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+
+	.CC4{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+/*** All three shows **/
+.CC5{
+	margin-top: 1rem;
+margin-left: 6rem;
+}
+
+.CC6{
+	margin-left: 15rem;
+	margin-top:-11rem;
+}
+
+.CC7{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+
+.CC8{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+
+/****** harry potter Movie***/
+.HP_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 520px;
+		background-image: url("https://wallpapercave.com/wp/wp5313140.jpg");
+	background-size: cover;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.HP_Content{
+	margin-left:0rem;
+}
+
+.HP1,.HP2,.HP3,.HP4,.HP5,.HP6,.HP7,.HP8{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.HP1:hover a,.HP2:hover a,.HP3:hover a,.HP4:hover a,.HP5:hover a,.HP6:hover a,.HP7:hover a,.HP8:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	/*** First two shows **/
+	.HP1{
+		margin-top: 0rem;
+		margin-left: 6rem;
+	}
+
+	.HP2{
+		margin-left: 15rem;
+		margin-top:-11rem;
+	}
+
+	.HP3{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+
+	.HP4{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+/*** All three shows **/
+.HP5{
+	margin-top: 1rem;
+margin-left: 6rem;
+}
+
+.HP6{
+	margin-left: 15rem;
+	margin-top:-11rem;
+}
+
+.HP7{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+	.HP8{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+
+/****** Fast saga Movie***/
+.Fast_Saga_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 700px;
+	background-color: black;
+	background-size: cover;
+
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.FF1,.FF2,.FF3,.FF4,.FF5,.FF6,.FF7,.FF8,.FF9,.FF_HS{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.FF1:hover a,.FF2:hover a,.FF3:hover a,.FF4:hover a,.FF5:hover a,.FF6:hover a,.FF7:hover a,.FF8:hover a,.FF9:hover a,.FF_HS:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	/*** First two shows **/
+	.FF1{
+		margin-top: 0rem;
+		margin-left: 6rem;
+	}
+
+	.FF2{
+		margin-left: 15rem;
+		margin-top:-11rem;
+	}
+
+	.FF3{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+
+	.FF4{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+
+.FF5{
+	margin-top: 1rem;
+margin-left: 6rem;
+}
+
+.FF6{
+	margin-left: 15rem;
+	margin-top:-11rem;
+}
+
+.FF7{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+	.FF8{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+
+	.FF_HS{
+		margin-top: 1rem;
+		margin-left:15rem;
+	}
+
+	.FF9{
+		margin-top: -11rem;
+		margin-left:24rem;
+	}
+
+/****** Godzilla Series Movie***/
+.Godzill_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 400px;
+	background-image: url("https://images2.alphacoders.com/102/thumb-1920-1020485.jpg");
+	background-size: cover;
+
+}
+
+.Godzill_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.GZ1,.GZ2,.GZ3,.GZ4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.GZ1:hover a,.GZ2:hover a,.GZ3:hover a,.GZ4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	.GZ1{
+		margin-top: 0rem;
+		margin-left: 6rem;
+	}
+
+	.GZ2{
+		margin-left: 15rem;
+		margin-top:-11rem;
+	}
+
+	.GZ3{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+
+	.GZ4{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+
+	/****** Fast saga Movie***/
+.Purge_Series_Recommended{
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 550px;
+	background-image: url("https://images.alphacoders.com/107/thumb-1920-1077145.jpg");
+	background-size: cover;
+
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+.P1,.P2,.P3,.P4,.P5,.P6{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.P1:hover a,.P2:hover a,.P3:hover a,.P4:hover a,.P5:hover a,.P6:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+
+	/*** First two shows **/
+	.P1{
+		margin-top: 0rem;
+		margin-left: 6rem;
+	}
+
+	.P2{
+		margin-left: 15rem;
+		margin-top:-11rem;
+	}
+
+	.P3{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+
+	.P4{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+
+.P5{
+	margin-top: 1rem;
+margin-left: 15rem;
+}
+
+.P6{
+	margin-left: 24rem;
+	margin-top:-11rem;
+}
+
+/****** Insidious Series ***/
+.Insidious_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 400px;
+	background-image: url("https://www.hdwallpapers.in/thumbs/2018/insidious_the_last_key_2018_5k-t2.jpg");
+	background-size: cover;
+
+}
+
+.Insidious_Recommended h1{
+	display: block;
+	text-align: center;
+}
+
+.I1,.I2,.I3,.I4{
+		width:7.5rem;
+        height:11rem;
+        margin-left:0;
+}
+
+.I1:hover a,.I2:hover a,.I3:hover a,.I4:hover a{
+        margin-left:-0.5rem;
+        margin-top: -1rem;
+}
+
+	.I1{
+		margin-top: 0rem;
+		margin-left: 6rem;
+	}
+
+	.I2{
+		margin-left: 15rem;
+		margin-top:-11rem;
+	}
+
+	.I3{
+		margin-left: 24rem;
+		margin-top: -11rem;
+	}
+
+	.I4{
+		margin-left: 33rem;
+		margin-top: -11rem;
+	}
+
 }
 
 
@@ -1780,9 +5146,13 @@ font-size: 5rem;
 		width:10rem;
 		height: 14rem;
         margin-left:0;
-
-
 	}
+
+	.Movie_1:hover a,.Movie_2:hover a,.Movie_3:hover a,.Movie_4:hover a,.Movie_5:hover a,.Movie_6:hover a,.Movie_7:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
 	/*** First two shows **/
 	.Movie_1,.Movie_7{
 		margin-top: 1rem;
@@ -1821,15 +5191,21 @@ font-size: 5rem;
 	height: 720px;
 }
 
-.Marvel_Cinema h1{
+.Marvel_Cinema {
 	display: block;
 	text-align: center;
+	font-size: 3rem;
 }
 
 .Movie_marvel_1,.Movie_marvel_2,.Movie_marvel_3,.Movie_marvel_4,.Movie_marvel_5,.Movie_marvel_6,.Movie_marvel_7,.Movie_marvel_8,.Movie_marvel_9{
 		width:10rem;
 		height: 14rem;
         margin-left:0;
+}
+
+.Movie_marvel_1:hover a,.Movie_marvel_2:hover a,.Movie_marvel_3:hover a,.Movie_marvel_4:hover a,.Movie_marvel_5:hover a,.Movie_marvel_6:hover a,.Movie_marvel_7:hover a,.Movie_marvel_8:hover a,.Movie_marvel_9:hover a{
+       margin-left:0.6rem;
+        margin-top: 0.5rem;
 }
 
 	/*** First two shows **/
@@ -1877,6 +5253,10 @@ font-size: 5rem;
 		margin-top: -14rem;
 	}
 
+	.More_Marvel{
+		margin-top:1rem;
+	}
+
 	/***********************************/
 
 
@@ -1892,9 +5272,12 @@ font-size: 5rem;
 		width:10rem;
 		height: 14rem;
         margin-left:0;
-
-
 	}
+
+	.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
 	/*** First two shows **/
 	.TV_Shows_1,.TV_Shows_7,.TV_Shows_13{
 		margin-top: 1rem;
@@ -1925,6 +5308,434 @@ font-size: 5rem;
 		margin-top: -14rem;
 	}
 
+	/***************Love Story ********************/
+
+
+	.love_story{
+	display: block;
+	text-align: center;
+	margin-top: 5rem;
+		margin-left: 4rem;
+}
+	
+	
+	
+	.L1,.L2,.L3,.L4,.L5,.L6,.L7{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+	}
+
+	.L1:hover a,.L2:hover a,.L3:hover a,.L4:hover a,.L5:hover a.L6:hover a,.L7:hover a{
+      margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+	/*** First two shows **/
+	.L1,.L7{
+		margin-top: 1rem;
+		margin-left: 1.3rem;
+	}
+
+	.L2{
+		margin-left: 12.3rem;
+		margin-top:-14rem;
+	}
+
+	.L3{
+		margin-left: 23.3rem;
+		margin-top: -14rem;
+	}
+
+	.L4{
+		margin-left: 34.3rem;
+		margin-top: -14rem;
+	}
+
+	.L5{
+		margin-left: 45.3rem;
+		margin-top: -14rem;
+	}
+	.L6{
+		margin-left: 56.3rem;
+		margin-top: -14rem;
+	}
+
+	/****** Conjuring Series  **********/
+.Conjuring_Cinematic_Universe{
+	
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 600px;
+	background: url("https://wallpapercave.com/wp/wp5756389.jpg");
+	background-size: cover;
+}
+
+.Conjuring_Cinematic_Universe h1{
+	display: block;
+	text-align: center;
+
+}
+
+.CC1,.CC2,.CC3,.CC4,.CC5,.CC6,.CC7,.CC8{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.CC1:hover a,.CC2:hover a,.CC3:hover a,.CC4:hover a,.CC5:hover a,.CC6:hover a,.CC7:hover a,.CC8:hover a{
+      margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+	/*** First two shows **/
+	.CC1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.CC2{
+		margin-left: 17rem;
+		margin-top:-14rem;
+	}
+
+	.CC3{
+		margin-left: 28rem;
+		margin-top: -14rem;
+	}
+
+	.CC4{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.CC5{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+	.CC6{
+		margin-left: 61rem;
+		margin-top: -14rem;
+	}
+
+	.CC7{
+			margin-top: 1rem;
+		margin-left: 28rem;
+	}
+
+	.CC8{
+		margin-left: 39rem;
+		margin-top:-14rem;
+	}
+
+	/****** Harry Potter Series***/
+.HP_Recommend{
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 720px;
+		background-image: url("https://wallpapercave.com/wp/wp5313140.jpg");
+	background-size: cover;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.HP1,.HP2,.HP3,.HP4,.HP5,.HP6,.HP7,.HP8{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.HP1:hover a,.HP2:hover a,.HP3:hover a,.HP4:hover a,.HP5:hover a,.HP6:hover a,.HP7:hover a,.HP8:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+	/*** First two shows **/
+	.HP1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.HP2{
+		margin-left: 17rem;
+		margin-top:-14rem;
+	}
+
+	.HP3{
+		margin-left: 28rem;
+		margin-top: -14rem;
+	}
+
+	.HP4{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.HP5{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+	.HP6{
+		margin-left: 61rem;
+		margin-top: -14rem;
+	}
+
+	.HP7{
+			margin-top: 1rem;
+		margin-left: 28rem;
+	}
+
+	.HP8{
+		margin-left: 39rem;
+		margin-top:-14rem;
+	}
+
+		/****** Fast saga movies ***/
+.Fast_Saga_Recommend{
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 650px;
+	background-color: black;
+	background-size: cover;
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Fast_Saga_Content{
+	margin-left: 1.3rem;
+}
+
+.FF1,.FF2,.FF3,.FF4,.FF5,.FF6,.FF7,.FF8,.FF9,.FF_HS{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.FF1:hover a,.FF2:hover a,.FF3:hover a,.FF4:hover a,.FF5:hover a,.FF6:hover a,.FF7:hover a,.FF8:hover a,.FF9:hover a,.FF_HS:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+	/*** First two shows **/
+	.FF1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.FF2{
+		margin-left: 17rem;
+		margin-top:-14rem;
+	}
+
+	.FF3{
+		margin-left: 28rem;
+		margin-top: -14rem;
+	}
+
+	.FF4{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.FF5{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+	.FF6{
+		margin-left: 61rem;
+		margin-top: -14rem;
+	}
+
+	.FF7{
+		margin-top: 1rem;
+		margin-left: 17rem;
+	}
+
+	.FF8{
+		margin-left: 28rem;
+		margin-top:-14rem;
+	}
+
+	.FF_HS{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.FF9{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+
+	/****** Godzilla Series movies ***/
+.Godzill_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 500px;
+	background-image: url("https://images2.alphacoders.com/102/thumb-1920-1020485.jpg");
+	background-size: cover;
+}
+
+.Godzill_Recommend h1{
+	display: block;
+	text-align: center;
+}
+
+.Godzilla_Content{
+	margin-top: 3rem;
+	margin-left: 0rem;
+}
+
+.GZ1,.GZ2,.GZ3,.GZ4{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.GZ1:hover a,.GZ2:hover a,.GZ3:hover a,.GZ4:hover a{
+       margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+	/*** First two shows **/
+	.GZ1{
+		margin-top: 1rem;
+		margin-left: 18rem;
+	}
+
+	.GZ2{
+		margin-left: 29rem;
+		margin-top:-14rem;
+	}
+
+	.GZ3{
+		margin-left: 40rem;
+		margin-top: -14rem;
+	}
+
+	.GZ4{
+		margin-left: 51rem;
+		margin-top: -14rem;
+	}
+
+
+		/****** The Purge Series ***/
+.Purge_Series_Recommended{
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 550px;
+background-image: url("https://images.alphacoders.com/107/thumb-1920-1077145.jpg");
+	background-size: cover;
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+}
+
+.Purge_Series_Content{
+	margin-left: 1.3rem;
+}
+
+.P1,.P2,.P3,.P4,.P5,.P6{
+		width:10rem;
+		height: 15rem;
+        margin-left:0;
+}
+
+.P1:hover a,.P2:hover a,.P3:hover a,.P4:hover a,.P5:hover a,.P6:hover a{
+       margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+	/*** First two shows **/
+	.P1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.P2{
+		margin-left: 17rem;
+		margin-top:-15rem;
+	}
+
+	.P3{
+		margin-left: 28rem;
+		margin-top: -15rem;
+	}
+
+	.P4{
+		margin-left: 39rem;
+		margin-top: -15rem;
+	}
+
+	.P5{
+		margin-left: 50rem;
+		margin-top: -15rem;
+	}
+	.P6{
+		margin-left: 61rem;
+		margin-top: -15rem;
+	}
+
+/****** Insidious Series ***/
+.Insidious_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 500px;
+	background-image: url("https://www.hdwallpapers.in/thumbs/2018/insidious_the_last_key_2018_5k-t2.jpg");
+	background-size: cover;
+}
+
+.Insidious_Recommended h1{
+	display: block;
+	text-align: center;
+}
+
+.Insidious_Content{
+	margin-top: 3rem;
+	margin-left: 0rem;
+}
+
+.I1,.I2,.I3,.I4{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.I1:hover a,.I2:hover a,.I3:hover a,.I4:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+	/*** First two shows **/
+	.I1{
+		margin-top: 1rem;
+		margin-left: 18rem;
+	}
+
+	.I2{
+		margin-left: 29rem;
+		margin-top:-14rem;
+	}
+
+	.I3{
+		margin-left: 40rem;
+		margin-top: -14rem;
+	}
+
+	.I4{
+		margin-left: 51rem;
+		margin-top: -14rem;
+	}
+
 
 }
 
@@ -1947,13 +5758,23 @@ font-size: 5rem;
 	margin-top: 11rem;
 	margin-left: 5rem;
 }
+
+.Movies_Arrival h1{
+display: block;
+	margin-left:-3rem;
+	font-size: 3rem;
+	}
+
 	.Movie_1,.Movie_2,.Movie_3,.Movie_4,.Movie_5,.Movie_6,.Movie_7{
 		width:10rem;
 		height: 14rem;
         margin-left:0;
-
-
 	}
+
+	.Movie_1:hover a,.Movie_2:hover a,.Movie_3:hover a,.Movie_4:hover a,.Movie_5:hover a,.Movie_6:hover a,.Movie_7:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
 	/*** First two shows **/
 	.Movie_1{
 		margin-top: 1rem;
@@ -2001,15 +5822,21 @@ font-size: 5rem;
 	height: 720px;
 }
 
-.Marvel_Cinema h1{
+.Marvel_Cinema{
 	display: block;
 	text-align: center;
+	font-size: 3rem;
 }
 
 .Movie_marvel_1,.Movie_marvel_2,.Movie_marvel_3,.Movie_marvel_4,.Movie_marvel_5,.Movie_marvel_6,.Movie_marvel_7,.Movie_marvel_8,.Movie_marvel_9{
 		width:10rem;
 		height: 14rem;
         margin-left:0;
+}
+
+.Movie_marvel_1:hover a,.Movie_marvel_2:hover a,.Movie_marvel_3:hover a,.Movie_marvel_4:hover a,.Movie_marvel_5:hover a,.Movie_marvel_6:hover a,.Movie_marvel_7:hover a,.Movie_marvel_8:hover a,.Movie_marvel_9:hover a{
+       margin-left:0.6rem;
+        margin-top: 0.5rem;
 }
 
 .Movie_marvel_1,.Movie_marvel_8{
@@ -2054,6 +5881,10 @@ font-size: 5rem;
 	text-align: center;
 	margin-top: 5rem;
 }
+
+.TV_Shows_Arrival h1{
+	font-size: 3rem;
+}
 	.TV_Shows_Content{
 		margin-left: 5rem;
 	}
@@ -2061,9 +5892,12 @@ font-size: 5rem;
 		width:10rem;
 		height: 14rem;
         margin-left:0;
-
-
 	}
+
+	.TV_Shows_1:hover a,.TV_Shows_2:hover a,.TV_Shows_3:hover a,.TV_Shows_4:hover a,.TV_Shows_5:hover a,.TV_Shows_6:hover a,.TV_Shows_7:hover a,.TV_Shows_8:hover a,.TV_Shows_9:hover a,.TV_Shows_10:hover a,.TV_Shows_11:hover a,.TV_Shows_12:hover a,.TV_Shows_13:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
 	/*** First two shows **/
 	.TV_Shows_1,.TV_Shows_8{
 		margin-top: 1rem;
@@ -2099,6 +5933,472 @@ font-size: 5rem;
 		margin-top: -14rem;
 	}
 
+/*************** Love story ********************/
+
+	.love_story{
+	display: block;
+	text-align: center;
+	margin-top: 0rem;
+	margin-left: 5rem;
+}
+.love_story h1{
+	display: block;
+	margin-left:-3rem;
+	font-size: 3rem;
+}
+	
+	.L1,.L2,.L3,.L4,.L5,.L6,.L7{
+		height: 14rem;
+        margin-left:0;
+	}
+
+		.L1:hover a,.L2:hover a,.L3:hover a,.L4:hover a,.L5:hover a.L6:hover a,.L7:hover a{
+      margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+
+	/*** First two shows **/
+	.L1{
+		margin-top: 1rem;
+		margin-left: 1.3rem;
+	}
+
+	.L2{
+		margin-left: 12.3rem;
+		margin-top:-14rem;
+	}
+
+	.L3{
+		margin-left: 23.3rem;
+		margin-top: -14rem;
+	}
+
+	.L4{
+		margin-left: 34.3rem;
+		margin-top: -14rem;
+	}
+
+	.L5{
+		margin-left: 45.3rem;
+		margin-top: -14rem;
+	}
+	.L6{
+		margin-left: 56.3rem;
+		margin-top: -14rem;
+	}
+
+	.L7{
+		margin-left: 67.3rem;
+		margin-top: -14rem;
+	}
+
+/****** Conjuring Series***/
+.Conjuring_Cinematic_Universe{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 650px;
+	background: url("https://wallpapercave.com/wp/wp5756389.jpg");
+	background-size: cover;
+
+}
+
+.Conjuring_Cinematic_Universe h1{
+	text-align: center;
+	font-size: 3rem;
+	color: white;
+	font-weight: bold;
+
+	/**span
+		background-color:white;
+	padding-right: 0.5rem;
+	padding-left:  0.5rem;
+	padding-top:  0.5rem;
+	padding-bottom:  0.5rem;
+	border:none;
+	border-radius: 5px;
+	color:#212121;
+	 -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+**/
+
+}
+
+.Conjuring_Content{
+	margin-left:1rem;
+}
+
+.CC1,.CC2,.CC3,.CC4,.CC5,.CC6,.CC7,.CC8{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.CC1:hover a,.CC2:hover a,.CC3:hover a,.CC4:hover a,.CC5:hover a,.CC6:hover a,.CC7:hover a,.CC8:hover a{
+      margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+.CC1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.CC2{
+		margin-left: 17rem;
+		margin-top:-14rem;
+	}
+
+	.CC3{
+		margin-left: 28rem;
+		margin-top: -14rem;
+	}
+
+	.CC4{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.CC5{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+	.CC6{
+		margin-left: 61rem;
+		margin-top: -14rem;
+	}
+
+	.CC7{
+		margin-left: 72rem;
+		margin-top: -14rem;
+	}
+	.CC8{
+		margin-left: 39rem;
+		margin-top: 1rem;
+	}
+
+
+/****** Harry potter ***/
+.HP_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 720px;
+	background-image: url("https://wallpapercave.com/wp/wp6237741.jpg");
+	background-image: url("https://wallpapercave.com/wp/wp5313140.jpg");
+	background-size: cover;
+}
+
+.HP_Recommend h1{
+	display: block;
+	text-align: center;
+	font-size: 3rem;
+}
+
+.HP1,.HP2,.HP3,.HP4,.HP5,.HP6,.HP7,.HP8{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.HP1:hover a,.HP2:hover a,.HP3:hover a,.HP4:hover a,.HP5:hover a,.HP6:hover a,.HP7:hover a,.HP8:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+.HP1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.HP2{
+		margin-left: 17rem;
+		margin-top:-14rem;
+	}
+
+	.HP3{
+		margin-left: 28rem;
+		margin-top: -14rem;
+	}
+
+	.HP4{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.HP5{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+	.HP6{
+		margin-left: 61rem;
+		margin-top: -14rem;
+	}
+
+	.HP7{
+		margin-left: 72rem;
+		margin-top: -14rem;
+	}
+	.HP8{
+		margin-top: 1rem;
+		margin-left: 39rem;
+	}
+
+/****** Fast saga movies ***/
+.Fast_Saga_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 750px;
+	/*background-image: url("https://images.alphacoders.com/719/719551.jpg");
+	background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/Full-HD-1970-Dodge-Charger-Wallpaper.jpg");*/
+	background-color: black;
+	background-size: cover;
+
+}
+
+.Fast_Saga_Recommend h1{
+	display: block;
+	text-align: center;
+	color:white;
+	font-size: 3rem;
+}
+
+.FF1,.FF2,.FF3,.FF4,.FF5,.FF6,.FF7,.FF8,.FF9,.FF_HS{
+		width:10rem;
+		height: 14rem;
+        margin-left:0;
+}
+
+.FF1:hover a,.FF2:hover a,.FF3:hover a,.FF4:hover a,.FF5:hover a,.FF6:hover a,.FF7:hover a,.FF8:hover a,.FF9:hover a,.FF_HS:hover a{
+        margin-left:0.6rem;
+        margin-top: 0.5rem;
+}
+
+.FF1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.FF2{
+		margin-left: 17rem;
+		margin-top:-14rem;
+	}
+
+	.FF3{
+		margin-left: 28rem;
+		margin-top: -14rem;
+	}
+
+	.FF4{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.FF5{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+	.FF6{
+		margin-left: 61rem;
+		margin-top: -14rem;
+	}
+
+	.FF7{
+		margin-left: 72rem;
+		margin-top: -14rem;
+	}
+
+	.FF8{
+		margin-left: 28rem;
+		margin-top: 1rem;
+	}
+
+	.FF_HS{
+		margin-left: 39rem;
+		margin-top: -14rem;
+	}
+
+	.FF9{
+		margin-left: 50rem;
+		margin-top: -14rem;
+	}
+
+	/****** Godzilla Series movies ***/
+.Godzill_Recommend{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 650px;
+	background-color: black;
+	background-size: cover;
+
+}
+
+.Godzill_Recommend h1{
+
+	display: block;
+	text-align: center;
+	color:white;
+	font-size: 3rem;
+}
+
+.Godzilla_Content{
+	margin-top: 4rem;
+	margin-left: 0rem;
+}
+
+
+.GZ1,.GZ2,.GZ3,.GZ4{
+		width:12rem;
+		height: 16rem;
+        margin-left:0;
+}
+
+.GZ1:hover a,.GZ2:hover a,.GZ3:hover a,.GZ4:hover a{
+       margin-left:1.6rem;
+        margin-top: 0.5rem;
+}
+
+.GZ1{
+		margin-top: 1rem;
+		margin-left: 18rem;
+	}
+
+	.GZ2{
+		margin-left: 32rem;
+		margin-top:-16rem;
+	}
+
+	.GZ3{
+		margin-left: 46rem;
+		margin-top: -16rem;
+	}
+
+	.GZ4{
+		margin-left: 60rem;
+		margin-top: -16rem;
+	}
+
+/****** The Purge Series ***/
+.Purge_Series_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 650px;
+background-image: url("https://images.alphacoders.com/107/thumb-1920-1077145.jpg");
+	background-size: cover;
+
+}
+
+.Purge_Series_Recommended h1{
+	display: block;
+	text-align: center;
+	color:white;
+	font-size: 3rem;
+}
+
+.Purge_Series_Content{
+margin-left: 6rem;
+margin-top: 2rem;
+}
+
+.P1,.P2,.P3,.P4,.P5,.P6{
+		width:12rem;
+		height: 17rem;
+        margin-left:0;
+}
+
+.P1:hover a,.P2:hover a,.P3:hover a,.P4:hover a,.P5:hover a,.P6:hover a{
+        margin-left:1.6rem;
+        margin-top: 1.5rem;
+}
+
+.P1{
+		margin-top: 1rem;
+		margin-left: 6rem;
+	}
+
+	.P2{
+		margin-left: 17rem;
+		margin-top:-15rem;
+	}
+
+	.P3{
+		margin-left: 29rem;
+		margin-top:-15rem;
+	}
+
+	.P4{
+		margin-left: 40rem;
+		margin-top:-15rem;
+	}
+
+	.P5{
+		margin-left: 51rem;
+		margin-top:-15rem;
+	}
+	.P6{
+		margin-left: 62rem;
+		margin-top:-15rem;
+	}
+
+/****** Insidious Series ***/
+.Insidious_Recommended{
+	margin-top: 0rem;
+	margin-left:-0.5rem;
+	margin-right:-0.5rem;
+	height: 650px;
+	background-image: url("https://images.hdqwalls.com/download/insidious-the-last-key-movie-4k-y6-1920x1080.jpg");
+	background-size: cover;
+
+}
+
+.Insidious_Recommended h1{
+
+	display: block;
+	text-align: center;
+	color:white;
+	font-size: 3rem;
+}
+
+.Insidious_Content{
+	margin-top: 4rem;
+	margin-left: 0rem;
+}
+
+
+.I1,.I2,.I3,.I4{
+		width:12rem;
+		height: 16rem;
+        margin-left:0;
+}
+.I1:hover a,.I2:hover a,.I3:hover a,.I4:hover a{
+    margin-left:1.6rem;
+    margin-top: 0.5rem;
+}
+
+.I1{
+		margin-top: 1rem;
+		margin-left: 18rem;
+	}
+
+	.I2{
+		margin-left: 32rem;
+		margin-top:-16rem;
+	}
+
+	.I3{
+		margin-left: 46rem;
+		margin-top: -16rem;
+	}
+
+	.I4{
+		margin-left: 60rem;
+		margin-top: -16rem;
+	}
 
 }
 
